@@ -84,7 +84,9 @@
 		<link rel="stylesheet" href="{{ url }}/assets/mediaelement_js/mediaelementplayer.min.css">
 	{% endif %}
 
+	{% if site.favicon-32x32 %}
 	{% include _favicon.html %}
+	{% endif %}
 
 	{% unless page.style == NULL %}
 	<style type="text/css">{{ page.style }}</style>

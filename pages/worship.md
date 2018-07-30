@@ -5,8 +5,8 @@ meta_title: "Worship | St Columba"
 title: "Worship Services"
 #subheadline: "A Step-by-Step Guide"
 teaser: "Choral Family Eucharist &mdash; Sunday at 9:30am."
-#header:
-#   image_fullwidth: "header_homepage_13.jpg"
+header:
+   image_fullwidth: "header-altar-970x321.jpg"
 permalink: "/worship/"
 ---
 Our regular services of Holy Eucharist follow the *Book of Alternative Services* (BAS). Everyone is invited to take part in the Eucharist (Communion). The wine and host are typically received at the altar rail. Gluten-free host is available.
