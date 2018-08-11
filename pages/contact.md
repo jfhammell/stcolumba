@@ -10,7 +10,7 @@ permalink: "/contact/"
 24 Sandridge Road,<br/>
 Ottawa, ON, K1K 0A8
 
-[OC Transpo bus number 7](http://www.octranspo.com/index.php/routes/?lang=en&rte=7) stops right out front.
+[OC Transpo Bus #7](http://www.octranspo.com/index.php/routes/?lang=en&rte=7) (eastbound and westbound) stops in front of and across the street from the Church.
 
 Phone the Church Office: 613-749-5103
 

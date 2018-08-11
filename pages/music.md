@@ -3,15 +3,17 @@ layout: page
 #show_meta: false
 meta_title: "Music | St Columba"
 title: "Music"
-#subheadline: "A Step-by-Step Guide"
-#teaser: "Choral Family Eucharist &mdash; Sunday at 9:30am."
-#header:
-#   image_fullwidth: "header_homepage_13.jpg"
+#subheadline: ""
+teaser: "'I will sing to the Lord all my life; I will sing praise to my God as long as I live.'  Psalm 104:33"
+header:
+   image_fullwidth: "header-david-beale-179724-unsplash-970x321.jpg"
 permalink: "/worship/music/"
 ---
-The choir is led by our organist, Faye Grinberg-Rice. Hymns are from *Common Praise*, the blue Anglican hymnal published in 1998.
+Music at St Columba is another form of worship and praise.  Through hymns, anthems and the liturgy we unite our voices in joyful worship to God.  Each service begins with a Prelude played by our Music Director (and accomplished musician), Faye Grinberg Rice.  The Prelude is followed by the Processional Hymn.  A Gradual Hymn is sung before the reading of The Gospel.  There is an Offertory Hymn, a Communion Hymn and a Recessional Hymn.  The service closes with the Postlude.  Great care is put into the selection of hymns to support and reflect the scripture readings for that day. 
 
-The music for the Kyrie, Sursum Corda, Sanctus, Benedictus, and the Lord’s Prayer are all arranged by Robert Fleming; the Gloria and Agnus Dei are arranged by our former organist, Carol Parker.
+Thanks to the Jack and Estelle Brown Fund, guest soloists and musicians that enrich the worship services from time to time throughout the year.   
 
-The choir rehearses Thursday evenings. All are welcome to join.
+New choir members are always welcome and no formal musical training is required (although the ability to read music is definitely an asset).  The choir practices Thursday evenings at 7:00 at the Church from September through December and again from February through to the end of June.
+
+For more information on the music program at St Columba, please contact the [parish office](mailto:admin@stcolumbaottawa.ca).
 

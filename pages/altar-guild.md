@@ -15,4 +15,4 @@ The Altar Guild accepts donations for the purchase of the altar flowers. A sign-
 
 ## Holly Sale
 
-Starting in 1962, the Altar Guild has organized an annual Holly Sale in the Christmas season. Before the sale, members of the guild meet in the church hall to bag the holly. Baking, jams and jellies made by guild members and parishoners are also sold at this highly anticipated community event.
+Starting in 1962, the Altar Guild has organized an annual Holly Sale in the Christmas season. Before the sale, members of the guild meet in the church hall to bag the holly. Baking, jams, jellies and embroidered goods made by guild members and parishoners are also sold at this highly anticipated community event.

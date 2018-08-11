@@ -4,23 +4,29 @@ layout: page
 meta_title: "Outreach | St Columba"
 title: "Outreach"
 #subheadline: "A Step-by-Step Guide"
-#teaser: "St Columba is located in the heart of Manor Park."
-#header:
-#   image_fullwidth: "header_homepage_13.jpg"
+teaser: "St Columba actively supports or sponsors a number of outreach activities."
+header:
+    image_fullwidth: "header-matt-collamer-555626-unsplash-970x321.jpg"
 permalink: "/community/outreach/"
 ---
-- Supporting children in our community, St. Columba donates school supplies to [**Manor Park Public School**](http://www.manorparkps.ocdsb.ca/) or the [**Wabano Centre for Aboriginal Health**](http://www.wabano.com/) every fall.
-- Each year, along with other Anglican Church Women within the diocese, St. Columba donates and packs clothing, toys, toiletries, and household items in support of **Bales for the North**.
-- St. Columba contributes to [**Habitat for Humanity**](http://www.habitatncr.com/) in the National Capital Region.
-- A special collection during our annual Blessing of the Animals service is donated to the [Ottawa-Carleton Humane Society](http://www.ottawahumane.ca/).
-- **Carleton University ecumenical chaplaincies'** student food project.
-- [Shepherds of Good Hope](http://www.shepherdsofgoodhope.com/)
-- The Altar Guild is a supporter of the *Buy a Tile* campaign of the [**Wabano Centre for Aboriginal Health**](http://www.wabano.com/).
+Supporting children in our community, every fall St Columba donates school supplies to the [Wabano Centre for Aboriginal Health](http://www.wabano.com/).
 
-## Diocese Initiatives
+Each May in support of the Anglican Church Women (ACW), St Columba is one of the locations for the packing of [Bales for the North](http://acwottawa.wixsite.com/acw-ottawa/bales-for-the-north). Many of the items donated by Anglican parishes throughout the Diocese are brought to St Columba, where they are sorted, packed and prepared for shipping to northern communities.  St Columba parishioners also generously donate needed items. For more information, please go to the ACW website for a full list of requested items or contact the [parish office][1].
 
-- [Primates World Relief and Development Fund](https://ottawa.anglican.ca/pwrdf/) (PWRDF), Canada’s Anglican response for emergency relief, refugees, development, and justice.
-- [Centre 454](http://www.centre454.ca/), providing drop-in support services and social recreational activities for individuals who are homeless or at risk of homelessness.
-- [Cornerstone](http://www.cornerstonewomen.ca/), emergency shelter and supportive housing for women.
-- [The Well](http://www.the-well.ca/), a gathering place for women and women with children.
-- [St Luke's Table](http://www.stlukestable.ca/), day program which provides services, support, and meals for those who are homeless or at risk of homelessness.
+St Columba supports the annual Christmas Party held at [Centre 454](http://www.centre454.ca/) through the purchase of small gifts for the men, women and children who attend this event.  
+
+[Primates World Relief Development Fund](http://pwrdf.org/) (PWRDF) is Canada's Anglican response for emergency relief, refugees, development and justice. Most recently PWRDF had a special appeal for the Al Ahli Arab Hospital in Gaza City, which has been supported for many years by this organization.
+
+The [Ottawa Anglican Diocese](https://ottawa.anglican.ca/community-ministries/) has a number of community ministry and outreach
+programs, including [Cornerstone](http://www.cornerstonewomen.ca/) (emergency shelter and supportive housing
+for a diversity of women), [The Well](http://www.the-well.ca/) (a safe gathering place providing meals,
+services, and resources for women and women with children living with
+poverty and issues surrounding homelessness), [St. Luke's Table](http://www.stlukestable.ca/) (a day
+program which provides services, support, and meals for those who are
+homeless or at risk of homelessness), [Centre 454](http://www.centre454.ca/) (an award-winning, daytime
+drop-in centre for those experiencing homelessness, poverty, or inadequate
+housing) and [Ottawa Pastoral Counselling Centre](http://www.ottawapastoralcounsellingcentre.ca/) (offering counselling and
+psychotherapy services to individuals, couples, and families including
+children and teens).
+
+ [1]: mailto:admin@stcolumbaottawa.ca
