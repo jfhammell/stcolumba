@@ -6,7 +6,7 @@
 #
 layout: frontpage
 header:
-  image_fullwidth: P9180218-cropped.jpg
+  image_fullwidth: header-img1081.jpg
 widget1:
   title: "Upcoming Events - Open House"
   url: /2018/open-house/
