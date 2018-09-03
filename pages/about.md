@@ -11,6 +11,8 @@ permalink: "/about/"
 ---
 The Church of St Columba is located in the community of [Manor Park][1] in Ottawa, Ontario and is part of the [Anglican Diocese of Ottawa][2].
 
+- [Contact us][6] by email, telephone, or visit in person.
+
 Read more about
 
 - [Our History][3]
@@ -22,3 +24,4 @@ Read more about
  [3]: {{ site.url }}{{site.baseurl}}/about/parish-history/
  [4]: {{ site.url }}{{site.baseurl}}/about/saint-columba/
  [5]: {{ site.url }}{{site.baseurl}}/community/facilities/
+ [6]: {{ site.url }}{{site.baseurl}}/contact/
