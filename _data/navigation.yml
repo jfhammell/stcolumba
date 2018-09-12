@@ -39,10 +39,7 @@
 #  url: "/search/"
 #  side: right
 
-#- title: "Donate"
-#  url: "/donate/"
-#  side: right
-
-- title: "Contact"
-  url: "/contact/"
+- title: "Donate"
+  url: "/donate/"
   side: right
+
