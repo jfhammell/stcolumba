@@ -34,7 +34,7 @@ widget3:
 #
 callforaction:
     url: /donate/
-    text: Donate Now!
+    text: Support our work and donate now!
     style: alert
 
 permalink: /index.html
