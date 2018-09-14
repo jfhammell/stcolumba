@@ -4,11 +4,13 @@ layout: page
 meta_title: "Music | St Columba"
 title: "Music"
 #subheadline: ""
-teaser: "'I will sing to the Lord all my life; I will sing praise to my God as long as I live.'  Psalm 104:33"
 header:
    image_fullwidth: "header-david-beale-179724-unsplash-970x321.jpg"
 permalink: "/worship/music/"
 ---
+>I will sing to the Lord all my life; I will sing praise to my God as long as I live.
+<cite>Psalm 104:33</cite>
+
 Music at St Columba is another form of worship and praise.  Through hymns, anthems and the liturgy we unite our voices in joyful worship to God.  Each service begins with a Prelude played by our Music Director (and accomplished musician), Faye Grinberg Rice.  The Prelude is followed by the Processional Hymn.  A Gradual Hymn is sung before the reading of The Gospel.  There is an Offertory Hymn, a Communion Hymn and a Recessional Hymn.  The service closes with the Postlude.  Great care is put into the selection of hymns to support and reflect the scripture readings for that day. 
 
 Thanks to the Jack and Estelle Brown Fund, guest soloists and musicians that enrich the worship services from time to time throughout the year.   
