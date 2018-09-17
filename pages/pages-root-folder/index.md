@@ -8,7 +8,7 @@ layout: frontpage
 header:
   image_fullwidth: header-img1081.jpg
 widget1:
-  title: "Upcoming Events - Open House"
+  title: "Upcoming Event - Open House"
   url: /2018/open-house/
   image: widget-open-house-303x182.png
   text: 'Everyone is invited to an open house at the church on <b>Saturday, September 22, 1-3pm</b>.  Meet friendly faces from groups that use the church throughout the week.'
