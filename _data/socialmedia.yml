@@ -28,6 +28,16 @@
    class: icon-facebook
    title: "Facebook"
 
+ - name: Email
+   url: mailto:admin@stcolumbaottawa.ca
+   class: icon-mail
+   title: "Email"
+
+ - name: Phone
+   url: tel:+16137495103
+   class: icon-phone
+   title: "Phone"
+
 # - name: Soundcloud
 #   url: http://soundcloud.com/
 #   class: icon-soundcloud
