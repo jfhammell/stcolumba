@@ -17,5 +17,5 @@ Thanks to the Jack and Estelle Brown Fund, guest soloists and musicians that enr
 
 New choir members are always welcome and no formal musical training is required (although the ability to read music is definitely an asset).  The choir practices Thursday evenings at 7:00 at the Church from September through December and again from February through to the end of June.
 
-For more information on the music program at St Columba, please contact the [parish office](mailto:admin@stcolumbaottawa.ca).
+For more information on the music program at St Columba, please contact [Faye](mailto:music@stcolumbaottawa.ca).
 
