@@ -12,8 +12,8 @@ categories:
 #    - post
 #    - post format
 #header: no
-#image:
-#    title: blessing-animals-poster.png
+image:
+    title: article-2018-breakfast-poster.png
 #    caption: Open House Flyer
 #    caption_url: http://unsplash.com
 ---

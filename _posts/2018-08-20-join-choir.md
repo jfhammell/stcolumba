@@ -15,8 +15,8 @@ categories:
 header: no
 image:
     title: article-michael-maasen-587294-unsplash.jpg
-    caption: Photo by Michael Maasen on Unsplash
-    caption_url: https://unsplash.com/@mgmassen
+#    caption: Photo by Michael Maasen on Unsplash
+#    caption_url: https://unsplash.com/@mgmassen
 ---
 The St Columba Choir is looking to grow.  This dynamic and dedicated group of choristers extend an invitation to folk who enjoy singing to join them and be part of the [music program][1] at St Columba.  Reading music is not required, but would be an asset.  
 
