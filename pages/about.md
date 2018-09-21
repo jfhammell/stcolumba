@@ -16,7 +16,6 @@ The Church of St Columba is located in the community of [Manor Park][1] in Ottaw
 Read more about
 
 - [Our History][3]
-- [Columba, our patron saint][4]
 - [Our Facilities available for rent][5]
 
  [1]: http://www.manorpark.ca/

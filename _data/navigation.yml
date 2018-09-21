@@ -10,8 +10,6 @@
     url: "/worship/"
   - title: "Music"
     url: "/worship/music/"
-  - title: "Pastoral Care"
-    url: "/worship/pastoral-care/"
   - title: "Altar Guild"
     url: "/worship/altar-guild/"
 
@@ -19,6 +17,8 @@
   url: "/community/"
   side: left
   dropdown:
+  - title: "Pastoral Care"
+    url: "/community/pastoral-care/"
   - title: "Outreach"
     url: "/community/outreach/"
   - title: "Facilities Rental"
@@ -32,8 +32,6 @@
     url: "/contact/"
   - title: "Parish History"
     url: "/about/parish-history/"
-  - title: "Saint Columba"
-    url: "/about/saint-columba/"
 
 #- title: "Search"
 #  url: "/search/"
