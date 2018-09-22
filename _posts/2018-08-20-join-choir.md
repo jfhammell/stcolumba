@@ -7,11 +7,8 @@ teaser: "Do you like to sing?"
 show_meta: false
 categories:
     - 2018
-#tags:
-#    - blog
-#    - content
-#    - post
-#    - post format
+tags:
+    - frontpage
 header: no
 image:
     title: article-michael-maasen-587294-unsplash.jpg

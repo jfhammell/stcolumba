@@ -1,17 +1,15 @@
 ---
 layout: page
 #subheadline: Templates
+archive: true
 title:  "Open House"
 teaser: "Everyone is invited to an open house at the church on Saturday, September 22, 1-3pm."
 #breadcrumb: true
 show_meta: false
 categories:
     - 2018
-#tags:
-#    - blog
-#    - content
-#    - post
-#    - post format
+tags:
+#    - featured
 header: no
 image:
     title: open-house-flyer.png

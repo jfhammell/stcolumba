@@ -37,7 +37,7 @@ format: frontpage
 {% unless site.posts == empty %}
     <div class="medium-6 columns">
         <h2 class="font-size-h3 t10">{{ site.data.language.more_articles }}</h2>
-        {% include list-posts %}
+        {% include list-posts tag='frontpage' %}
     </div><!-- /.medium-7.columns -->
 {% endunless %}
 

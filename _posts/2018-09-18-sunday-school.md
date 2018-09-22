@@ -6,11 +6,8 @@ title:  "New Sunday School Session"
 show_meta: false
 categories:
     - 2018
-#tags:
-#    - blog
-#    - content
-#    - post
-#    - post format
+tags:
+    - frontpage
 header: no
 image:
     title: article-rawpixel-463437-unsplash.jpg
