@@ -7,7 +7,7 @@ show_meta: false
 categories:
     - 2018
 tags:
-    - frontpage
+#    - frontpage
 header: no
 image:
     title: blessing-animals-poster.png

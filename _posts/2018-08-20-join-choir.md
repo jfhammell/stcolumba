@@ -8,7 +8,7 @@ show_meta: false
 categories:
     - 2018
 tags:
-    - frontpage
+#    - frontpage
 header: no
 image:
     title: article-michael-maasen-587294-unsplash.jpg

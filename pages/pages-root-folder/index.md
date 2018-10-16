@@ -6,12 +6,12 @@
 #
 layout: frontpage
 header:
-  image_fullwidth: header-img1081.jpg
+  image_fullwidth: header-exterior-970x321.jpg
 
 widget1:
   title: "Services"
   url: /worship/
-  image: widget-front-303x182.jpg
+  image: widget-interior-img-1592.jpg
   text: "<b>Sunday Worship 9:30am</b><br/>Children's Sunday School (Fall through Spring)"
 
 widget2:
@@ -21,10 +21,10 @@ widget2:
   text: 'A community hub in Manor Park, the facilities of St Columba are used by various groups throughout the week, and on weekends by individuals for special occasions such as birthday or anniversary parties.  If you have an event or meeting, one of the church halls may be a perfect fit for your needs.'
 
 widget3:
-  title: "Blessing of the Animals"
-  url: /2018/blessing-animals/
-  image: widget-cat-isabela-ferreira-780664-unsplash.jpg
-  text: 'Join us with your pets on <b>Sunday, October&nbsp;14</b> for the annual Blessing of the Animals service for the Feast of St Francis. The <a href="/2018/sunday-school/">Fall Children&rsquo;s Sunday School session</a> will also begin with this service.'
+  title: "Harvest Chili Supper"
+  url: /2018/harvest-supper/
+  image: widget-harvest-chili-supper.png
+  text: 'St Columba is hosting a Harvest Chili Supper on <b>Monday, November&nbsp;19 at 5-7pm</b>.  Free-will offering at the door.'
 
 #
 # Use the call for action to show a button on the frontpage
