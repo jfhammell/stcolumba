@@ -21,10 +21,10 @@ widget2:
   text: 'A community hub in Manor Park, the facilities of St Columba are used by various groups throughout the week, and on weekends by individuals for special occasions such as birthday or anniversary parties.  If you have an event or meeting, one of the church halls may be a perfect fit for your needs.'
 
 widget3:
-  title: "Harvest Chili Supper"
-  url: /2018/harvest-supper/
-  image: widget-harvest-chili-supper.png
-  text: 'St Columba is hosting a Harvest Chili Supper on <b>Monday, November&nbsp;19 at 5-7pm</b>.  Free-will offering at the door.'
+  title: "Holly, Baked Goods & Gifts"
+  url: /2018/holly-sale/
+  image: widget-holly-sale.png
+  text: "St Columba's annual Holly Sale is on <b>Saturday, December&nbsp;22 at 10am</b> with bags of fresh holly, homemade jams & jellies, baked goods, and embroidered gifts."
 
 #
 # Use the call for action to show a button on the frontpage
