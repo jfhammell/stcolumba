@@ -8,8 +8,8 @@ teaser: "December 19, 7:30pm"
 show_meta: false
 categories:
     - 2018
-tags:
-    - frontpage
+#tags:
+#    - frontpage
 header: no
 #image:
 #    title: holly-sale-2018.png
