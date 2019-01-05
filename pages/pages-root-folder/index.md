@@ -14,23 +14,17 @@ widget1:
   image: widget-interior-img-1592.jpg
   text: "<b>Sunday Worship 9:30am</b><br/>Children's Sunday School (Fall through Spring)"
 
-#widget2:
-#  title: "Facilities"
-#  url: /community/facilities/
-#  image: widget-hall-303x182.jpg
-#  text: 'A community hub in Manor Park, the facilities of St Columba are used by various groups throughout the week, and on weekends by individuals for special occasions such as birthday or anniversary parties.  If you have an event or meeting, one of the church halls may be a perfect fit for your needs.'
-
 widget2:
+  title: "Facilities"
+  url: /community/facilities/
+  image: widget-hall-303x182.jpg
+  text: 'A community hub in Manor Park, the facilities of St Columba are used by various groups throughout the week, and on weekends by individuals for special occasions such as birthday or anniversary parties.  If you have an event or meeting, one of the church halls may be a perfect fit for your needs.'
+
+widget3:
   title: "Christmas Services"
   url: /2018/christmas/
   image: widget-gareth-harper-175342-unsplash-640x384.jpg
   text: "Join us for Christmas in Manor Park. Find our special service times during the season celebrating the birth of Christ."
-
-widget3:
-  title: "Holly, Baked Goods & Gifts"
-  url: /2018/holly-sale/
-  image: widget-holly-sale.png
-  text: "St Columba's annual Holly Sale is on <b>Saturday, December&nbsp;22 at 10am</b> with bags of fresh holly, homemade jams & jellies, baked goods, and embroidered gifts."
 
 #
 # Use the call for action to show a button on the frontpage
