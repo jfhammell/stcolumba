@@ -7,8 +7,8 @@ title:  "Christmas Services"
 show_meta: false
 categories:
     - 2018
-tags:
-    - frontpage
+#tags:
+#    - frontpage
 header:
    image_fullwidth: "header-gareth-harper-175342-unsplash-1500x496.jpg"
 ---

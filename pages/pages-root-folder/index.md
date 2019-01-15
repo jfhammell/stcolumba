@@ -21,10 +21,10 @@ widget2:
   text: 'A community hub in Manor Park, the facilities of St Columba are used by various groups throughout the week, and on weekends by individuals for special occasions such as birthday or anniversary parties.  If you have an event or meeting, one of the church halls may be a perfect fit for your needs.'
 
 widget3:
-  title: "Christmas Services"
-  url: /2018/christmas/
-  image: widget-gareth-harper-175342-unsplash-640x384.jpg
-  text: "Join us for Christmas in Manor Park. Find our special service times during the season celebrating the birth of Christ."
+  title: "Vestry Meeting"
+  url: /2019/vestry/
+  image: widget-meeting-nicole-honeywill-703542-unsplash-640x384.jpg
+  text: 'The <a href="/2019/vestry/">annual vestry meeting</a> will take place on Sunday, February 17, following the 9:30am service.'
 
 #
 # Use the call for action to show a button on the frontpage
