@@ -21,10 +21,10 @@ widget2:
   text: 'A community hub in Manor Park, the facilities of St Columba are used by various groups throughout the week, and on weekends by individuals for special occasions such as birthday or anniversary parties.  If you have an event or meeting, one of the church halls may be a perfect fit for your needs.'
 
 widget3:
-  title: "Vestry Meeting"
-  url: /2019/vestry/
-  image: widget-meeting-nicole-honeywill-703542-unsplash-640x384.jpg
-  text: 'The <a href="/2019/vestry/">annual vestry meeting</a> will take place on Sunday, February 17, following the 9:30am service.'
+  title: "Pancake Supper"
+  url: /2019/pancake-supper/
+  image: widget-pancakes-640x384.png
+  text: 'St Columba is hosting a Shrove Tuesday Pancake Supper on March 5, 5-7pm.  Free will offering at the door.'
 
 #
 # Use the call for action to show a button on the frontpage
