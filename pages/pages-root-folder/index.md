@@ -15,10 +15,14 @@ widget1:
   text: "<b>Sunday Worship 9:30am</b><br/>Children's Sunday School (Fall through Spring)"
 
 widget2:
-  title: "Facilities"
-  url: /community/facilities/
-  image: widget-hall-303x182.jpg
-  text: 'A community hub in Manor Park, the facilities of St Columba are used by various groups throughout the week, and on weekends by individuals for special occasions such as birthday or anniversary parties.  If you have an event or meeting, one of the church halls may be a perfect fit for your needs.'
+  title: "Ash Wednesday"
+  url: /2019/ash-wednesday/
+  image: widget-ash-ahna-ziegler-558901-unsplash-640x384.jpg
+  text: 'The Ash Wednesday service will be at 7pm on March 6.'
+#  title: "Facilities"
+#  url: /community/facilities/
+#  image: widget-hall-303x182.jpg
+#  text: 'A community hub in Manor Park, the facilities of St Columba are used by various groups throughout the week, and on weekends by individuals for special occasions such as birthday or anniversary parties.  If you have an event or meeting, one of the church halls may be a perfect fit for your needs.'
 
 widget3:
   title: "Pancake Supper"
