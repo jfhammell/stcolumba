@@ -15,20 +15,16 @@ widget1:
   text: "<b>Sunday Worship 9:30am</b><br/>Children's Sunday School (Fall through Spring)"
 
 widget2:
-  title: "Ash Wednesday"
-  url: /2019/ash-wednesday/
-  image: widget-ash-ahna-ziegler-558901-unsplash-640x384.jpg
-  text: 'The Ash Wednesday service will be at 7pm on March 6.'
-#  title: "Facilities"
-#  url: /community/facilities/
-#  image: widget-hall-303x182.jpg
-#  text: 'A community hub in Manor Park, the facilities of St Columba are used by various groups throughout the week, and on weekends by individuals for special occasions such as birthday or anniversary parties.  If you have an event or meeting, one of the church halls may be a perfect fit for your needs.'
+  title: "Facilities"
+  url: /community/facilities/
+  image: widget-hall-303x182.jpg
+  text: 'A community hub in Manor Park, the facilities of St Columba are used by various groups throughout the week, and on weekends by individuals for special occasions such as birthday or anniversary parties.  If you have an event or meeting, one of the church halls may be a perfect fit for your needs.'
 
 widget3:
-  title: "Pancake Supper"
-  url: /2019/pancake-supper/
-  image: widget-pancakes-640x384.png
-  text: 'St Columba is hosting a Shrove Tuesday Pancake Supper on March 5, 5-7pm.  Free will offering at the door.'
+  title: "Lenten Bible Study"
+  url: /2019/lenten-bible-study/
+  image: widget-bible-303x182.jpg
+  text: 'Each Wednesday throughout the season of Lent (March 13 - April 17), Rob will host a bible study in our parish hall from noon to 1:30 p.m.  All are welcome.'
 
 #
 # Use the call for action to show a button on the frontpage

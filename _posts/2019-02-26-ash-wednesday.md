@@ -9,7 +9,7 @@ show_meta: false
 categories:
     - 2019
 tags:
-    - frontpage
+#    - frontpage
 #header: no
 #image:
 #    title: pancake-supper-2019.png
