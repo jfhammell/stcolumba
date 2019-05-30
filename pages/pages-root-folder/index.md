@@ -21,11 +21,10 @@ widget2:
   text: 'A community hub in Manor Park, the facilities of St Columba are used by various groups throughout the week, and on weekends by individuals for special occasions such as birthday or anniversary parties.  If you have an event or meeting, one of the church halls may be a perfect fit for your needs.'
 
 widget3:
-  title: "Bales to the North"
-  url: /2019/bales-to-the-north/
-  image: widget-bales-P1010110-640x384.jpg
-  text: 'Packing day will be held on Wed May 29 from 9am until noon.  Volunteers are also requested to help with assembling the cartons on Tues May 28 at 7pm.  Please drop off donations of new items in the collection box.'
-
+  title: "Trinity Sunday"
+  url: /2019/trinity-sunday/
+  image: widget-trinity-sunday-640x384.png
+  text: 'Join us on Trinity Sunday, June 16, 2019 at 9:30am, for some special music, featuring guest soloist Shawn Mattas.'
 #
 # Use the call for action to show a button on the frontpage
 #
