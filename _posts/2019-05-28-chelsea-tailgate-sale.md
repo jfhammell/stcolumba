@@ -7,8 +7,8 @@ teaser: "Saturday, June 1, 9am to 2pm"
 show_meta: false
 categories:
     - 2019
-tags:
-    - frontpage
+#tags:
+#    - frontpage
 #header: no
 ---
 Hosted by St Mary Magdalene Church, Chelsea (parking lot at 537 Route 105, across from Freshmart).  
