@@ -21,10 +21,10 @@ widget2:
   text: 'A community hub in Manor Park, the facilities of St Columba are used by various groups throughout the week, and on weekends by individuals for special occasions such as birthday or anniversary parties.  If you have an event or meeting, one of the church halls may be a perfect fit for your needs.'
 
 widget3:
-  title: "Trinity Sunday"
-  url: /2019/trinity-sunday/
-  image: widget-trinity-sunday-640x384.png
-  text: 'Join us on Trinity Sunday, June 16, 2019 at 9:30am, for some special music, featuring guest soloist Shawn Mattas.'
+  title: "Summer Services"
+  url: /2019/summer-services/
+  image: widget-bible-aaron-burden-535Npq1wFG8-unsplash-640x384.jpg
+  text: "The Rev'd Karen Coxon will be leading our weekly services through the summer months."
 #
 # Use the call for action to show a button on the frontpage
 #
