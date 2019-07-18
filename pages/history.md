@@ -38,6 +38,6 @@ A memorial book, displayed in the narthex, lists the many wonderful donations pr
 | The Reverend Canon James Beall | 2010–2012
 | The Reverend William Sheppard | 2012–2015
 | The Reverend Kenneth Spear | 2015–2016
-| The Reverend Canon Robert Heard | 2016–
+| The Reverend Canon Robert Heard | 2016–2019
 
 
