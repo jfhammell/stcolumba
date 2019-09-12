@@ -21,10 +21,10 @@ widget2:
   text: 'A community hub in Manor Park, the facilities of St Columba are used by various groups throughout the week, and on weekends by individuals for special occasions such as birthday or anniversary parties.  If you have an event or meeting, one of the church halls may be a perfect fit for your needs.'
 
 widget3:
-  title: "Summer Services"
-  url: /2019/summer-services/
-  image: widget-bible-aaron-burden-535Npq1wFG8-unsplash-640x384.jpg
-  text: "The Rev'd Karen Coxon will be leading our weekly services through the summer months."
+  title: "Blessing of the Animals"
+  url: /2019/blessing-animals/
+  image: widget-cat-isabela-ferreira-780664-unsplash.jpg
+  text: "Join us with your pets on <b>Sunday, October 6</b> for the annual Blessing of the Animals service on the Feast of St Francis."
 #
 # Use the call for action to show a button on the frontpage
 #
