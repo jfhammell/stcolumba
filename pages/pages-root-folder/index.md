@@ -21,10 +21,10 @@ widget2:
   text: 'A community hub in Manor Park, the facilities of St Columba are used by various groups throughout the week, and on weekends by individuals for special occasions such as birthday or anniversary parties.  If you have an event or meeting, one of the church halls may be a perfect fit for your needs.'
 
 widget3:
-  title: "Blessing of the Animals"
-  url: /2019/blessing-animals/
-  image: widget-cat-isabela-ferreira-780664-unsplash.jpg
-  text: "Join us with your pets on <b>Sunday, October 6</b> for the annual Blessing of the Animals service on the Feast of St Francis."
+  title: "Harvest Chili Supper"
+  url: /2019/chili-supper/
+  image: widget-harvest-chili-supper-2019.png
+  text: "St Columba is hosting a Harvest Chili Supper on Monday, November 18th.  Free will offering at the door."
 #
 # Use the call for action to show a button on the frontpage
 #

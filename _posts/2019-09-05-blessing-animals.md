@@ -7,7 +7,7 @@ show_meta: false
 categories:
     - 2019
 tags:
-    - frontpage
+#    - frontpage
 header: no
 image:
     title: poster-blessing-animals-2019.png
