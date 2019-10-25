@@ -21,10 +21,15 @@ widget2:
   text: 'A community hub in Manor Park, the facilities of St Columba are used by various groups throughout the week, and on weekends by individuals for special occasions such as birthday or anniversary parties.  If you have an event or meeting, one of the church halls may be a perfect fit for your needs.'
 
 widget3:
-  title: "Harvest Chili Supper"
-  url: /2019/chili-supper/
-  image: widget-harvest-chili-supper-2019.png
-  text: "St Columba is hosting a Harvest Chili Supper on Monday, November 18th.  Free will offering at the door."
+  title: "Remembrance Sunday"
+  url: /2019/remembrance-sunday/
+  image: widget-poppies-640x384.jpg
+  text: "On November 10 we will observe Remembrance Sunday and the Feast of All Souls.  Suzanne Le of Multifaith Housing Initiative will speak about their upcoming project, Veterans' House."
+#widget3:
+#  title: "Harvest Chili Supper"
+#  url: /2019/chili-supper/
+#  image: widget-harvest-chili-supper-2019.png
+#  text: "St Columba is hosting a Harvest Chili Supper on Monday, November 18th.  Free will offering at the door."
 #
 # Use the call for action to show a button on the frontpage
 #
