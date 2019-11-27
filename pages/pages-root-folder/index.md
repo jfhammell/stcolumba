@@ -28,7 +28,7 @@ widget2:
   text: "Join us for Christmas in Manor Park. Find our special service times during the season celebrating the birth of Christ."
 
 widget3:
-  title: "Holly, Baked Goods & Gifts"
+  title: "Holly Sale & Baked Goods"
   url: /2019/holly-sale/
   image: widget-holly-sale-2019.png
   text: "St Columba's annual Holly Sale is on <b>Saturday, December&nbsp;21 at 10am</b> with bags of fresh holly, homemade jams & jellies, and baked goods."
