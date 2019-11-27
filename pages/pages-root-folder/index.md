@@ -12,19 +12,26 @@ widget1:
   title: "Services"
   url: /worship/
   image: widget-interior-img-1592.jpg
-  text: "<b>Sunday Worship 9:30am</b><br/>Children's Sunday School (Fall through Spring)"
+  text: "<b>Sunday Worship 9:30am</b>"
+#  text: "<b>Sunday Worship 9:30am</b><br/>Children's Sunday School (Fall through Spring)"
+
+#widget2:
+#  title: "Facilities"
+#  url: /community/facilities/
+#  image: widget-hall-303x182.jpg
+#  text: 'A community hub in Manor Park, the facilities of St Columba are used by various groups throughout the week, and on weekends by individuals for special occasions such as birthday or anniversary parties.  If you have an event or meeting, one of the church halls may be a perfect fit for your needs.'
 
 widget2:
-  title: "Facilities"
-  url: /community/facilities/
-  image: widget-hall-303x182.jpg
-  text: 'A community hub in Manor Park, the facilities of St Columba are used by various groups throughout the week, and on weekends by individuals for special occasions such as birthday or anniversary parties.  If you have an event or meeting, one of the church halls may be a perfect fit for your needs.'
+  title: "Christmas Services"
+  url: /2019/christmas/
+  image: widget-gareth-harper-175342-unsplash-640x384.jpg
+  text: "Join us for Christmas in Manor Park. Find our special service times during the season celebrating the birth of Christ."
 
 widget3:
-  title: "Harvest Chili Supper"
-  url: /2019/chili-supper/
-  image: widget-harvest-chili-supper-2019.png
-  text: "St Columba is hosting a Harvest Chili Supper on Monday, November 18th.  Free will offering at the door."
+  title: "Holly, Baked Goods & Gifts"
+  url: /2019/holly-sale/
+  image: widget-holly-sale-2019.png
+  text: "St Columba's annual Holly Sale is on <b>Saturday, December&nbsp;21 at 10am</b> with bags of fresh holly, homemade jams & jellies, and baked goods."
 #
 # Use the call for action to show a button on the frontpage
 #

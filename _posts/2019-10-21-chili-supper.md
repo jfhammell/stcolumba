@@ -8,8 +8,8 @@ teaser: "November 18, 2019 - 5-7 pm"
 show_meta: false
 categories:
     - 2019
-tags:
-    - frontpage
+#tags:
+#    - frontpage
 header: no
 image:
     title: poster-chili-supper-2019.png

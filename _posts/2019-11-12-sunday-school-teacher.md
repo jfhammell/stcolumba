@@ -16,6 +16,6 @@ tags:
 #    caption: Open House Flyer
 #    caption_url: http://unsplash.com
 ---
-The Church of St Columba is looking for a Sunday School Teacher.  Please see the [attached job description]({{ site.url }}/assets/sunday-school-teacher.pdf).  Applications can be sent to our [administrator](mailto:admin@stcolumbaottawa.ca) and are due November 18.  
+The Church of St Columba is looking for a Sunday School Teacher.  Please see the [attached job description]({{ site.url }}/assets/sunday-school-teacher.pdf).  Applications can be sent to our [administrator](mailto:admin@stcolumbaottawa.ca). 
 
 
