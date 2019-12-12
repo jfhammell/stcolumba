@@ -8,8 +8,8 @@ teaser: "December 8, 7:30-8:30pm"
 show_meta: false
 categories:
     - 2019
-tags:
-    - frontpage
+#tags:
+#    - frontpage
 header: no
 image:
     title: poster-mpstrings-christmas-2019.png
