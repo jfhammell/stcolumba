@@ -8,8 +8,8 @@ teaser: "December 21, 2019 - 10 am"
 show_meta: false
 categories:
     - 2019
-tags:
-    - frontpage
+#tags:
+#    - frontpage
 header: no
 image:
     title: poster-holly-sale-2019.png

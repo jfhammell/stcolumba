@@ -6,8 +6,8 @@ title:  "Appointment of the Rev'd Karen Coxon"
 show_meta: false
 categories:
     - 2019
-tags:
-    - frontpage
+#tags:
+#    - frontpage
 #header: no
 #image:
 #    title: article-2019-wpcu-poster.png
