@@ -7,8 +7,8 @@ title:  "Christmas Services"
 show_meta: false
 categories:
     - 2019
-tags:
-    - frontpage
+#tags:
+#    - frontpage
 header: no
 image:
     title: poster-christmas-2019.png
