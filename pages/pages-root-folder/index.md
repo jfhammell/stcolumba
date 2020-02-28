@@ -19,13 +19,13 @@ widget2:
   title: "Facilities"
   url: /community/facilities/
   image: widget-hall-303x182.jpg
-  text: 'A community hub in Manor Park, the facilities of St Columba are used by various groups throughout the week, and on weekends by individuals for special occasions such as birthday or anniversary parties.  If you have an event or meeting, one of the church halls may be a perfect fit for your needs.'
+  text: 'A community hub in Manor Park, the facilities of St&nbsp;Columba are used by various groups throughout the week, and on weekends by individuals for special occasions such as birthday or anniversary parties.  If you have an event or meeting, one of the church halls may be a perfect fit for your needs.'
 
 widget3:
-  title: "PWRDF Sunday"
-  url: /2020/pwrdf-sunday/
+  title: "Mapping Exercise"
+  url: /2020/mapping-exercise/
   image: widget-pwrdf-416x250.png
-  text: "St Columba will host Dr Jane Maxwell on <b>Sunday, February&nbsp;16</b> to speak to us about the Primate's World Relief and Development Fund."
+  text: "As part of our Lenten study on Reconciliation with Indigenous Peoples, St&nbsp;Columba is hosting this free workshop on <b>Wednesday, March&nbsp;4</b> from 10:30 to 12:30. Pre-registration required."
 #
 # Use the call for action to show a button on the frontpage
 #
