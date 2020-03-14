@@ -8,8 +8,8 @@ teaser: "An Education for Reconciliation Tool"
 show_meta: false
 categories:
     - 2020
-tags:
-    - frontpage
+#tags:
+#    - frontpage
 #header: no
 #image:
 #    title: holly-sale-2018.png
