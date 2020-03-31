@@ -12,13 +12,12 @@ widget1:
   title: "COVID-19"
   url: /2020/covid-19/
   image: widget-covid-19-640x384.png
-  text: "All worship services are suspended until Holy Week."
+  text: "All worship services are currently suspended.  Readings and a reflection are emailed weekly.  Contact the parish office if you would like to receive these."
 
 widget2:
   title: "Holy Week"
-  url: /2020/holy-week/
   image: widget-holy-week-2020-640x384.png
-  text: 'Join us for Holy Week services: Palm Sunday, Maundy Thursday, Good Friday and the Easter Sunday celebration.'
+  text: 'In-person Holy Week services have been cancelled.  The cathedral is preparing recorded services for Palm Sunday, Good Friday and Easter Sunday.  We will provide a link to those when they are available.'
 
 widget3:
   title: "Services"
