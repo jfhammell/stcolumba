@@ -12,24 +12,20 @@ widget1:
   title: "COVID-19"
   url: /2020/covid-19/
   image: widget-covid-19-640x384.png
-  text: "All worship services are currently suspended.  Readings and a reflection are emailed weekly.  Contact the parish office if you would like to receive these."
+  text: "In-person worship services are currently suspended.  Online virtual services are held via Zoom.  Contact the <a href='mailto:webmaster@stcolumbaottawa.ca'>webmaster</a> if you would like to join."
 
 widget2:
-  title: "Holy Week"
-  image: widget-holy-week-2020-640x384.png
-  text: 'In-person Holy Week services have been cancelled.  The cathedral is preparing recorded services for Palm Sunday, Good Friday and Easter Sunday.  We will provide a link to those when they are available.'
-
-widget3:
   title: "Services"
   url: /worship/
   image: widget-interior-img-1592.jpg
-  text: "<b>Sunday Worship 9:30am</b><br/>Currently suspended due to COVID-19."
+  text: "<b>Sunday Worship 9:30am</b><br/>Join us virtually via Zoom. Contact the <a href='mailto:webmaster@stcolumbaottawa.ca'>webmaster</a> to receive the invite."
 #  text: "<b>Sunday Worship 9:30am</b><br/>Children's Sunday School (Fall through Spring)"
 
-#widget3:
-#  title: "Facilities"
-#  url: /community/facilities/
-#  image: widget-hall-303x182.jpg
+widget3:
+  title: "Facilities"
+  url: /community/facilities/
+  image: widget-hall-303x182.jpg
+  text: 'Unfortunately, we are currently not able to rent the facilities.  Please keep us in mind when provincial restrictions are lifted.'
 #  text: 'A community hub in Manor Park, the facilities of St&nbsp;Columba are used by various groups throughout the week, and on weekends by individuals for special occasions such as birthday or anniversary parties.  If you have an event or meeting, one of the church halls may be a perfect fit for your needs.'
 
 #
