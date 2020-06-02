@@ -18,14 +18,14 @@ widget2:
   title: "Services"
   url: /worship/
   image: widget-interior-img-1592.jpg
-  text: "<b>Sunday Worship 9:30am</b><br/>Join us virtually via Zoom. Contact the <a href='mailto:webmaster@stcolumbaottawa.ca'>webmaster</a> to receive the invite."
+  text: "<b>Sunday Worship 9:30am</b><br/>Join us virtually via Zoom. <a href='/2020/sunday-school'>Children's Sunday School</a> is also available. Contact the <a href='mailto:webmaster@stcolumbaottawa.ca'>webmaster</a> to receive the invitation."
 #  text: "<b>Sunday Worship 9:30am</b><br/>Children's Sunday School (Fall through Spring)"
 
 widget3:
   title: "Facilities"
   url: /community/facilities/
   image: widget-hall-303x182.jpg
-  text: 'Unfortunately, we are currently not able to rent the facilities.  Please keep us in mind when provincial restrictions are lifted.'
+  text: 'Unfortunately, we are not able to rent the facilities at this time.  Please keep us in mind when provincial restrictions are lifted.'
 #  text: 'A community hub in Manor Park, the facilities of St&nbsp;Columba are used by various groups throughout the week, and on weekends by individuals for special occasions such as birthday or anniversary parties.  If you have an event or meeting, one of the church halls may be a perfect fit for your needs.'
 
 #
