@@ -9,17 +9,18 @@ header:
   image_fullwidth: header-exterior-970x321.jpg
 
 widget1:
+  title: "Online Services"
+  url: /worship/
+  image: widget-zoom-chris-montgomery-smgTvepind4-unsplash.jpg
+  text: "<b>Sunday Worship 9:30am</b><br/>Join us virtually via Zoom. <a href='/2020/sunday-school'>Children's Sunday School</a> is available at 1:30pm. Contact the <a href='mailto:webmaster@stcolumbaottawa.ca'>webmaster</a> to receive the invitation."
+#  image: widget-interior-img-1592.jpg
+#  text: "<b>Sunday Worship 9:30am</b><br/>Children's Sunday School (Fall through Spring)"
+
+widget2:
   title: "COVID-19"
   url: /2020/covid-19/
   image: widget-covid-19-640x384.png
   text: "In-person worship services are currently suspended.  Online virtual services are held via Zoom.  Contact the <a href='mailto:webmaster@stcolumbaottawa.ca'>webmaster</a> if you would like to join."
-
-widget2:
-  title: "Services"
-  url: /worship/
-  image: widget-interior-img-1592.jpg
-  text: "<b>Sunday Worship 9:30am</b><br/>Join us virtually via Zoom. <a href='/2020/sunday-school'>Children's Sunday School</a> is also available. Contact the <a href='mailto:webmaster@stcolumbaottawa.ca'>webmaster</a> to receive the invitation."
-#  text: "<b>Sunday Worship 9:30am</b><br/>Children's Sunday School (Fall through Spring)"
 
 widget3:
   title: "Facilities"
