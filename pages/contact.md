@@ -12,7 +12,8 @@ Ottawa, ON, K1K 0A8
 
 [OC Transpo Bus #7](http://www.octranspo.com/index.php/routes/?lang=en&rte=7) (eastbound and westbound) stops in front of and across the street from the Church.
 
-Phone the Church Office: 613-749-5103
+Phone the Church Office: 613-749-5103.
+For pastoral emergencies, please call 613-899-2434.
 
 **Email**<br/>
 - Our Rector: [rector@stcolumbaottawa.ca](mailto:rector@stcolumbaottawa.ca)
