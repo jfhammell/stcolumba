@@ -9,25 +9,27 @@ header:
   image_fullwidth: header-exterior-970x321.jpg
 
 widget1:
-  title: "Online Services"
-  url: /worship/
-  image: widget-zoom-chris-montgomery-smgTvepind4-unsplash.jpg
-  text: "<b>Sunday Worship 9:30am</b><br/>Join us virtually via Zoom. <a href='/2020/sunday-school'>Children's Sunday School</a> is available at 1:30pm. Contact the <a href='mailto:webmaster@stcolumbaottawa.ca'>webmaster</a> to receive the invitation."
-#  image: widget-interior-img-1592.jpg
-#  text: "<b>Sunday Worship 9:30am</b><br/>Children's Sunday School (Fall through Spring)"
+  title: "Worship Services"
+  url: /2020/amber-stage/
+  image: widget-interior-img-1592.jpg
+  text: "<b>Sunday Worship 9:30am</b><br/>Restarting in-person September 6.<br/>COVID-19 precautions will be in-place."
+#  url: /worship/
+#  image: widget-zoom-chris-montgomery-smgTvepind4-unsplash.jpg
+#  text: "<b>Sunday Worship 9:30am</b><br/>Join us virtually via Zoom. <a href='/2020/sunday-school'>Children's Sunday School</a> is available at 1:30pm. Contact the <a href='mailto:webmaster@stcolumbaottawa.ca'>webmaster</a> to receive the invitation."
 
 widget2:
   title: "COVID-19"
-  url: /2020/covid-19/
+  url: /2020/amber-stage/
   image: widget-covid-19-640x384.png
-  text: "In-person worship services are currently suspended.  Online virtual services are held via Zoom.  Contact the <a href='mailto:webmaster@stcolumbaottawa.ca'>webmaster</a> if you would like to join."
+  text: "In-person worship services have been suspended from March until September.  During that time we have hosted online virtual services via Zoom.  Precautions have been put in place following the diocese pandemic plan to ensure a safe worship space when we re-open in September."
 
 widget3:
   title: "Facilities"
   url: /community/facilities/
   image: widget-hall-303x182.jpg
-  text: 'Unfortunately, we are not able to rent the facilities at this time.  Please keep us in mind when provincial restrictions are lifted.'
+  text: 'We are re-opening the facilities of St&nbsp;Columba with restrictions as per the COVID-19 pandemic plan.  If you have an event or meeting, contact us to see if one of the church halls may fit your needs.'
 #  text: 'A community hub in Manor Park, the facilities of St&nbsp;Columba are used by various groups throughout the week, and on weekends by individuals for special occasions such as birthday or anniversary parties.  If you have an event or meeting, one of the church halls may be a perfect fit for your needs.'
+#  text: 'Unfortunately, we are not able to rent the facilities at this time.  Please keep us in mind when provincial restrictions are lifted.'
 
 #
 # Use the call for action to show a button on the frontpage

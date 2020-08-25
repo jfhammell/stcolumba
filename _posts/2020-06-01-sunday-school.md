@@ -6,8 +6,8 @@ title:  "Sunday School via Zoom"
 show_meta: false
 categories:
     - 2020
-tags:
-    - frontpage
+#tags:
+#    - frontpage
 header: no
 image:
     title: article-rawpixel-463437-unsplash.jpg
