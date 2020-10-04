@@ -21,13 +21,13 @@ widget2:
   title: "COVID-19"
   url: /2020/amber-stage/
   image: widget-covid-19-640x384.png
-  text: "In-person worship services have been suspended from March until September.  During that time we have hosted online virtual services via Zoom.  Precautions have been put in place following the diocese pandemic plan to ensure a safe worship space when we re-open in September."
+  text: "Precautions have been put in place following the diocese pandemic plan to ensure a safe worship space."
 
 widget3:
   title: "Facilities"
   url: /community/facilities/
   image: widget-hall-303x182.jpg
-  text: 'We are re-opening the facilities of St&nbsp;Columba with restrictions as per the COVID-19 pandemic plan.  If you have an event or meeting, contact us to see if one of the church halls may fit your needs.'
+  text: 'We have re-opened the facilities of St&nbsp;Columba with restrictions as per the COVID-19 pandemic plan.  If you have an event or meeting, contact us to see if one of the church halls may fit your needs.'
 #  text: 'A community hub in Manor Park, the facilities of St&nbsp;Columba are used by various groups throughout the week, and on weekends by individuals for special occasions such as birthday or anniversary parties.  If you have an event or meeting, one of the church halls may be a perfect fit for your needs.'
 #  text: 'Unfortunately, we are not able to rent the facilities at this time.  Please keep us in mind when provincial restrictions are lifted.'
 

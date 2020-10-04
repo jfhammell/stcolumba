@@ -20,12 +20,12 @@ The Anglican Diocese of Ottawa has given permission for parishes to resume worsh
  - capacity of the church is reduced to no more than 50 people;
  - signs will be posted that will inform people on the symptoms of COVID-19 request staying away and get tested if you have any of the symptoms;
  - everyone must enter by the front door and exit by the side door to avoid congestion;
- - no singing during the worship service;
+ - no singing by the congregation during the worship service;
  - at the Eucharist people will be served the wafer alone;
  - no coffee hour following the service;
  - increased cleaning and sanitization before and after the service.
 
-The church has been closed since March and during this time a few of us have been able to participate in virtual services via the Zoom conferencing service.  Many people are probably eager to resume our in-person worship services.  Please be patient and bare with us while we try to ensure everyone remains safe.
+The church was closed from March until end of August and during this time we held virtual services via the Zoom conferencing service.  
 
 If you have any questions or concerns, please contact the [church office][1].
 
