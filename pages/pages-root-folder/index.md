@@ -12,7 +12,7 @@ widget1:
   title: "Worship Services"
   url: /2020/amber-stage/
   image: widget-interior-img-1592.jpg
-  text: "<b>Sunday Worship 9:30am</b><br/>Restarting in-person September 6.<br/>COVID-19 precautions will be in-place."
+  text: "<b>Sunday Worship 9:30am</b><br/>All are welcome. COVID-19 precautions are in place."
 #  url: /worship/
 #  image: widget-zoom-chris-montgomery-smgTvepind4-unsplash.jpg
 #  text: "<b>Sunday Worship 9:30am</b><br/>Join us virtually via Zoom. <a href='/2020/sunday-school'>Children's Sunday School</a> is available at 1:30pm. Contact the <a href='mailto:webmaster@stcolumbaottawa.ca'>webmaster</a> to receive the invitation."
