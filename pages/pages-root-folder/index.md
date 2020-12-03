@@ -11,7 +11,7 @@ header:
 widget1:
   title: "Christmas Services"
   url: /2020/christmas/
-  image: widget-christmas-2020-640x384.png
+  image: widget-christmas-2020-640x384.jpg
   text: "We are planning 4pm and 9pm services on Christmas Eve and a 9:30am service on Christmas Day."
 
 widget2:
