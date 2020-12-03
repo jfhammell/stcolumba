@@ -9,6 +9,12 @@ header:
   image_fullwidth: header-exterior-970x321.jpg
 
 widget1:
+  title: "Christmas Services"
+  url: /2020/christmas/
+  image: widget-christmas-2020-640x384.png
+  text: "We are planning 4pm and 9pm services on Christmas Eve and a 9:30am service on Christmas Day."
+
+widget2:
   title: "Worship Services"
   url: /2020/amber-stage/
   image: widget-interior-img-1592.jpg
@@ -17,17 +23,17 @@ widget1:
 #  image: widget-zoom-chris-montgomery-smgTvepind4-unsplash.jpg
 #  text: "<b>Sunday Worship 9:30am</b><br/>Join us virtually via Zoom. <a href='/2020/sunday-school'>Children's Sunday School</a> is available at 1:30pm. Contact the <a href='mailto:webmaster@stcolumbaottawa.ca'>webmaster</a> to receive the invitation."
 
-widget2:
+widget3:
   title: "COVID-19"
   url: /2020/amber-stage/
   image: widget-covid-19-640x384.png
   text: "Precautions have been put in place following the diocese pandemic plan to ensure a safe worship space."
 
-widget3:
-  title: "Facilities"
-  url: /community/facilities/
-  image: widget-hall-303x182.jpg
-  text: 'We have re-opened the facilities of St&nbsp;Columba with restrictions as per the COVID-19 pandemic plan.  If you have an event or meeting, contact us to see if one of the church halls may fit your needs.'
+#widget3:
+#  title: "Facilities"
+#  url: /community/facilities/
+#  image: widget-hall-303x182.jpg
+#  text: 'We have re-opened the facilities of St&nbsp;Columba with restrictions as per the COVID-19 pandemic plan.  If you have an event or meeting, contact us to see if one of the church halls may fit your needs.'
 #  text: 'A community hub in Manor Park, the facilities of St&nbsp;Columba are used by various groups throughout the week, and on weekends by individuals for special occasions such as birthday or anniversary parties.  If you have an event or meeting, one of the church halls may be a perfect fit for your needs.'
 #  text: 'Unfortunately, we are not able to rent the facilities at this time.  Please keep us in mind when provincial restrictions are lifted.'
 
