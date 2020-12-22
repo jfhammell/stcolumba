@@ -12,22 +12,23 @@ widget1:
   title: "Christmas Services"
   url: /2020/christmas/
   image: widget-christmas-2020-640x384.jpg
-  text: "We are planning 4pm and 9pm services on Christmas Eve and a 9:30am service on Christmas Day."
+  text: "We are hosting 4pm and 9pm services on Christmas Eve and a 9:30am service on Christmas Day. Capacity will be limited, so please arrive early."
 
-widget2:
+widget3:
   title: "Worship Services"
   url: /2020/amber-stage/
   image: widget-interior-img-1592.jpg
-  text: "<b>Sunday Worship 9:30am</b><br/>All are welcome. COVID-19 precautions are in place."
+  text: "In-person worship will be suspended from December 26 to January 23."
+#  text: "<b>Sunday Worship 9:30am</b><br/>All are welcome. COVID-19 precautions are in place.<br/>In-person worship will be suspended from December 26 to January 23."
 #  url: /worship/
 #  image: widget-zoom-chris-montgomery-smgTvepind4-unsplash.jpg
 #  text: "<b>Sunday Worship 9:30am</b><br/>Join us virtually via Zoom. <a href='/2020/sunday-school'>Children's Sunday School</a> is available at 1:30pm. Contact the <a href='mailto:webmaster@stcolumbaottawa.ca'>webmaster</a> to receive the invitation."
 
-widget3:
+widget2:
   title: "COVID-19"
   url: /2020/amber-stage/
   image: widget-covid-19-640x384.png
-  text: "Precautions have been put in place following the diocese pandemic plan to ensure a safe worship space."
+  text: "Precautions have been put in place following the diocese pandemic plan to ensure a safe worship space.<br/>Due to the provincial lockdown, in-person worship services will be suspended from December 26 until January 23."
 
 #widget3:
 #  title: "Facilities"
