@@ -8,7 +8,7 @@ show_meta: false
 categories:
     - 2020
 tags:
-    - frontpage
+#    - frontpage
 header: no
 image:
     title: poster-christmas-2020.png
