@@ -29,7 +29,7 @@ widget2:
   title: "COVID-19"
   url: /2021/red-stage/
   image: widget-covid-19-640x384.png
-  text: "In-person worship services and facility rentals have been suspended. We hope to be able to re-open on March 28."
+  text: "In-person worship services and facility rentals have been suspended."
 #  url: /2020/amber-stage-update/
 #  text: "Precautions have been put in place following the diocese pandemic plan to ensure a safe worship space.<br/>Due to the provincial lockdown, in-person worship services will be suspended from December 26 until January 23."
 
@@ -37,7 +37,7 @@ widget3:
   title: "Holy Week"
   url: /2021/holy-week/
   image: widget-holy-week-2020-640x384.png
-  text: "Holy Week services begin on March 28.  We hope to be able to have in-person services.  Please return to our website to confirm."
+  text: "Holy Week services begin on March 28.  Unfortunately, our plans for in-person worship have been cancelled.  We will host Holy Week services online via Zoom at the same scheduled times."
 
 #widget3:
 #  title: "Facilities"
