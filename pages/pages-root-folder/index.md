@@ -17,18 +17,23 @@ header:
 widget1:
   title: "Worship Services"
   image: widget-interior-img-1592.jpg
-  url: /2021/amber-stage/
-  text: "<b>Sunday Worship 9:30am</b><br/>Join us virtually via Zoom during the month of July 2021.  We will be suspending all services for the month of August. In-person worship will resume starting September 5th."
-#  text: "<b>Sunday Worship 9:30am</b><br/>All are welcome. COVID-19 precautions are in place.<br/>In-person worship will be suspended from December 26 to January 23."
+  url: /2021/yellow-stage/
+  text: "<b>Sunday Worship 9:30am</b><br/>All are welcome. COVID-19 precautions are in place."
 #  url: /worship/
 #  image: widget-zoom-chris-montgomery-smgTvepind4-unsplash.jpg
 #  text: "<b>Sunday Worship 9:30am</b><br/>Join us virtually via Zoom. <a href='/2020/sunday-school'>Children's Sunday School</a> is available at 1:30pm. Contact the <a href='mailto:webmaster@stcolumbaottawa.ca'>webmaster</a> to receive the invitation."
 
+#widget2:
+#  title: "COVID-19"
+#  url: /2021/yellow-stage/
+#  image: widget-covid-19-640x384.png
+#  text: "We resumed in-person worship services at St&nbsp;Columba on September 5, 2021.  Precautions have been put in place following the diocese pandemic plan to ensure a safe worship space."
+
 widget2:
-  title: "COVID-19"
-  url: /2021/amber-stage/
-  image: widget-covid-19-640x384.png
-  text: "We will resume in-person worship services at St&nbsp;Columba on September 5, 2021.  Precautions have been put in place following the diocese pandemic plan to ensure a safe worship space."
+  title: "Blessing of the Animals"
+  url: /2021/blessing-animals/
+  image: widget-cat-isabela-ferreira-780664-unsplash.jpg
+  text: "Join us with your pets on <b>Sunday, October 3</b> for the Blessing of the Animals service on the Feast of St Francis."
 
 widget3:
   title: "Facilities"
