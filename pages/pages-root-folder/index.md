@@ -30,10 +30,10 @@ widget1:
 #  text: "We resumed in-person worship services at St&nbsp;Columba on September 5, 2021.  Precautions have been put in place following the diocese pandemic plan to ensure a safe worship space."
 
 widget2:
-  title: "Blessing of the Animals"
-  url: /2021/blessing-animals/
-  image: widget-cat-isabela-ferreira-780664-unsplash.jpg
-  text: "Join us with your pets on <b>Sunday, October 3</b> for the Blessing of the Animals service on the Feast of St Francis."
+  title: "Christmas Services"
+  url: /2021/christmas/
+  image: widget-christmas-2021-640x384.jpg
+  text: "Join us for special services during Advent and Christmas.  See our schedule for more information."
 
 widget3:
   title: "Facilities"
