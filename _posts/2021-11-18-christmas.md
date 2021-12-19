@@ -14,9 +14,12 @@ image:
     title: poster-christmas-2021.png
 #     Carols and solos by sopranos Natacha Demers and Natasha Henry
 ---
-Our current plans for special Advent and Christmas services are listed below.  Please check back to confirm.
-* **Service of Lessons and Carols**, November 28, 9:30am.
-    * Special music by soprano Keumnim Lim and baritone Shawn Mattas
-* **Christmas Storytime with Carols**, December 24, 4:00pm.
-* **Christmas Eve Candlelight Eucharist**, December 24, 9:00pm.
-* **Christmas Day**, December 25, 9:30am.
+Unfortunately, due to rising numbers of COVID-19 cases, we have been directed by the Anglican Diocese of Ottawa to cancel our in-person Christmas services.  We have decided to hold the following services online over the Zoom conferencing service:
+* **Christmas Eve** over Zoom, December 24, 9:00pm.
+* **Christmas 1** over Zoom, December 26, 9:30am.
+
+We have cancelled our 4pm Christmas Eve Service of Light and our Christmas morning service.  
+
+Joining the Zoom broadcast is free and can be done via mobile phone, computer or even telephone.  An invitation with meeting code will be emailed.  Please contact our [webmaster][1] to get the invitation.  
+
+ [1]: mailto:webmaster@stcolumbaottawa.ca
