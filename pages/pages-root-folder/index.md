@@ -8,7 +8,7 @@ layout: frontpage
 header:
   image_fullwidth: header-exterior-970x321.jpg
 
-widget2:
+widget1:
   title: "Virtual Services"
   url: /2021/red-stage
   image: widget-zoom-chris-montgomery-smgTvepind4-unsplash.jpg
@@ -22,17 +22,12 @@ widget2:
 #  url: /worship/
 #  image: widget-zoom-chris-montgomery-smgTvepind4-unsplash.jpg
 
-#widget2:
-#  title: "COVID-19"
-#  url: /2021/yellow-stage/
-#  image: widget-covid-19-640x384.png
+widget2:
+  title: "COVID-19"
+  url: /2021/red-stage/
+  image: widget-covid-19-640x384.png
+  text: "In-person worship services have been suspended due to the pandemic.  Please join us online over Zoom."
 #  text: "We resumed in-person worship services at St&nbsp;Columba on September 5, 2021.  Precautions have been put in place following the diocese pandemic plan to ensure a safe worship space."
-
-widget1:
-  title: "Christmas Services"
-  url: /2021/christmas/
-  image: widget-christmas-2021-640x384.jpg
-  text: "Our in-person Christmas services have been cancelled.  Our Christmas Eve 9pm service will be held online via Zoom. <a href='mailto:webmaster@stcolumbaottawa.ca'>Contact us</a> to receive the invitation."
 
 widget3:
   title: "Facilities"
