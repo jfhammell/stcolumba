@@ -19,12 +19,6 @@ week are those in the [Ottawa Diocese Prayer Calendar][1] as well as the worldwi
 include the names of individuals for whom the congregation has asked to
 remember in prayer.  
 
-Children are a welcome part of the worship service.  From September through
-to mid-June, a children's talk is presented after the processional hymn has
-been sung.  The children then leave to attend the Sunday School program,
-returning to join their families during the Eucharist to either receive
-communion or a blessing at the altar. 
-
 Members of the congregation participate in many aspects of the worship
 service, as greeters, choristers, readers of the scripture lessons, leading
 the prayers and Psalm, etc.  This makes for an inclusive environment in
