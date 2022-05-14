@@ -14,17 +14,17 @@ header:
 #  image: widget-zoom-chris-montgomery-smgTvepind4-unsplash.jpg
 #  text: "<b>Sunday Worship 9:30am</b><br/>Join us virtually via Zoom. <a href='mailto:webmaster@stcolumbaottawa.ca'>Contact us</a> to receive the invitation."
 
-#widget1:
-#  title: "Worship Services"
-#  image: widget-interior-img-1592.jpg
-#  url: /worship/
-#  text: "<b>Sunday Worship 9:30am</b><br/>All are welcome. COVID-19 precautions are in place."
-
 widget1:
-  title: "Holy Week Services"
-  image: widget-holy-week-2020-640x384.png
-  url: /2022/holy-week/
-  text: "Join us for worship services during Holy Week for Palm Sunday, Maundy Thursday, Good Friday, and Easter Sunday."
+  title: "Worship Services"
+  image: widget-interior-img-1592.jpg
+  url: /worship/
+  text: "<b>Sunday Worship 9:30am</b><br/>All are welcome. COVID-19 precautions are in place."
+
+#widget1:
+#  title: "Holy Week Services"
+#  image: widget-holy-week-2020-640x384.png
+#  url: /2022/holy-week/
+#  text: "Join us for worship services during Holy Week for Palm Sunday, Maundy Thursday, Good Friday, and Easter Sunday."
 
 widget2:
   title: "COVID-19"
