@@ -26,12 +26,18 @@ widget1:
 #  url: /2022/holy-week/
 #  text: "Join us for worship services during Holy Week for Palm Sunday, Maundy Thursday, Good Friday, and Easter Sunday."
 
-widget2:
-  title: "COVID-19"
-  url: /2022/modified-yellow-stage/
-  image: widget-covid-19-640x384.png
+#widget2:
+#  title: "COVID-19"
+#  url: /2022/green-stage/
+#  image: widget-covid-19-640x384.png
 #  text: "In-person worship services have been suspended due to the pandemic.  Please join us online over Zoom."
-  text: "We are resuming in-person worship services at St&nbsp;Columba on March 6, 2022.  Precautions have been put in place following the diocese pandemic plan to ensure a safe worship space."
+#  text: "Precautions have been put in place following the diocese pandemic plan to ensure a safe worship space."
+
+widget2:
+  title: "Strawberry Social"
+  url: /2022/strawberry-social/
+  image: widget-strawberries-oliver-hale-unsplash-640x384.jpg
+  text: "Join us on Saturday, July 30, 2-4pm for our Strawberry Social. Cost is $5.00 per serving (cash or cheque please) to raise funds to professionally clean our stain-glass church window."
 
 widget3:
   title: "Facilities"
