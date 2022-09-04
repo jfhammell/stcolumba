@@ -34,10 +34,10 @@ widget1:
 #  text: "Precautions have been put in place following the diocese pandemic plan to ensure a safe worship space."
 
 widget2:
-  title: "Strawberry Social"
-  url: /2022/strawberry-social/
-  image: widget-strawberries-oliver-hale-unsplash-640x384.jpg
-  text: "Join us on Saturday, July 30, 2-4pm for our Strawberry Social. Cost is $5.00 per serving (cash or cheque please) to raise funds to professionally clean our stain-glass church window."
+  title: "Community Garden"
+  url: /2022/community-garden/
+  image: widget-veggies-303x182.jpg
+  text: "A wonderful harvest of vegetables from the Community Garden has been donated to the Ottawa Food Bank.  Input on expanding the Community Garden next year is requested."
 
 widget3:
   title: "Facilities"
