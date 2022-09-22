@@ -37,7 +37,7 @@ widget2:
   title: "Community Garden"
   url: /2022/community-garden/
   image: widget-veggies-303x182.jpg
-  text: "A wonderful harvest of vegetables from the Community Garden has been donated to the Ottawa Food Bank.  Input on expanding the Community Garden next year is requested."
+  text: "A wonderful harvest of vegetables from the Community Garden has been donated to the Ottawa Food Bank."
 
 widget3:
   title: "Facilities"
