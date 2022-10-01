@@ -34,10 +34,10 @@ widget1:
 #  text: "Precautions have been put in place following the diocese pandemic plan to ensure a safe worship space."
 
 widget2:
-  title: "Community Garden"
-  url: /2022/community-garden/
-  image: widget-veggies-303x182.jpg
-  text: "A wonderful harvest of vegetables from the Community Garden has been donated to the Ottawa Food Bank."
+  title: "Harvest Chili Supper"
+  url: /2022/chili-supper/
+  image: widget-harvest-chili-supper-2019.png
+  text: "Join us on Oct 27, 5-7pm, for beef or vegetarian chili with cornbread, dessert and beverage. Take-out or dine-in.  $10 for adults and $5 for children."
 
 widget3:
   title: "Facilities"
