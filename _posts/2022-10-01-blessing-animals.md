@@ -6,8 +6,8 @@ title:  "Blessing of the Animals"
 show_meta: false
 categories:
     - 2022
-tags:
-    - frontpage
+#tags:
+#    - frontpage
 #header: no
 #image:
 #    title: poster-blessing-animals-2019.png

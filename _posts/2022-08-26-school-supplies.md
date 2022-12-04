@@ -6,8 +6,8 @@ title:  "School Supplies"
 show_meta: false
 categories:
     - 2022
-tags:
-    - frontpage
+#tags:
+#    - frontpage
 #header: no
 image:
     title: school-supplies-2022.jpg

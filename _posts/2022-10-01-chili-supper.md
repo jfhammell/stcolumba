@@ -8,8 +8,8 @@ teaser: "Thursday, October 27, 2022 - 5-7 pm"
 show_meta: false
 categories:
     - 2022
-tags:
-    - frontpage
+#tags:
+#    - frontpage
 header: no
 image:
     title: poster-chili-supper-2022.png

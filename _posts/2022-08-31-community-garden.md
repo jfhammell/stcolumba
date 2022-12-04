@@ -6,8 +6,8 @@ title:  "Community Garden"
 show_meta: false
 categories:
     - 2022
-tags:
-    - frontpage
+#tags:
+#    - frontpage
 #header: no
 #image:
 #    title: poster-strawberry-social-2022.jpg
