@@ -9,7 +9,7 @@ show_meta: false
 categories:
     - 2022
 tags:
-    - frontpage
+#    - frontpage
 header: no
 image:
     title: poster-holly-sale-2022.png

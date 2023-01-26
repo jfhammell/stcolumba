@@ -7,7 +7,7 @@ show_meta: false
 categories:
     - 2022
 tags:
-    - frontpage
+#    - frontpage
 header: no
 image:
     title: poster-fall-events-2022.png

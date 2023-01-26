@@ -14,7 +14,7 @@ header:
 #  image: widget-zoom-chris-montgomery-smgTvepind4-unsplash.jpg
 #  text: "<b>Sunday Worship 9:30am</b><br/>Join us virtually via Zoom. <a href='mailto:webmaster@stcolumbaottawa.ca'>Contact us</a> to receive the invitation."
 
-widget3:
+widget1:
   title: "Worship Services"
   image: widget-interior-img-1592.jpg
   url: /worship/
@@ -26,32 +26,20 @@ widget3:
 #  url: /2022/holy-week/
 #  text: "Join us for worship services during Holy Week for Palm Sunday, Maundy Thursday, Good Friday, and Easter Sunday."
 
-#widget2:
-#  title: "COVID-19"
-#  url: /2022/green-stage/
-#  image: widget-covid-19-640x384.png
-#  text: "In-person worship services have been suspended due to the pandemic.  Please join us online over Zoom."
-#  text: "Precautions have been put in place following the diocese pandemic plan to ensure a safe worship space."
-
-widget1:
-  title: "Christmas Services"
-  url: /2022/christmas/
-  image: widget-christmas-2022-640x384.png
-  text: "Join us to share the joy of the season and celebrate the birth of Jesus."
-
-#widget3:
-#  title: "Facilities"
-#  url: /community/facilities/
-#  image: widget-hall-303x182.jpg
-#  text: 'We have re-opened the facilities of St&nbsp;Columba with restrictions as per the COVID-19 pandemic plan.  If you have an event or meeting, contact us to see if one of the church halls may fit your needs.'
-#  text: 'A community hub in Manor Park, the facilities of St&nbsp;Columba are used by various groups throughout the week, and on weekends by individuals for special occasions such as birthday or anniversary parties.  If you have an event or meeting, one of the church halls may be a perfect fit for your needs.'
-#  text: 'Unfortunately, we are not able to rent the facilities at this time.  Please keep us in mind when COVID-19 restrictions are lifted.'
-
 widget2:
-  title: "Holly and Bake Sale"
-  url: /2022/holly-sale/
-  image: widget-holly-sale-2019.png
-  text: 'Our annual Christmas Holly and Bake Sale is on Saturday, December 17.'
+  title: "COVID-19"
+  url: /2022/green-stage/
+  image: widget-covid-19-640x384.png
+#  text: "In-person worship services have been suspended due to the pandemic.  Please join us online over Zoom."
+  text: "Precautions have been put in place following the diocese pandemic plan to ensure a safe worship space."
+
+widget3:
+  title: "Facilities"
+  url: /community/facilities/
+  image: widget-hall-303x182.jpg
+#  text: 'We have re-opened the facilities of St&nbsp;Columba with restrictions as per the COVID-19 pandemic plan.  If you have an event or meeting, contact us to see if one of the church halls may fit your needs.'
+  text: 'A community hub in Manor Park, the facilities of St&nbsp;Columba are used by various groups throughout the week, and on weekends by individuals for special occasions such as birthday or anniversary parties.  If you have an event or meeting, one of the church halls may be a perfect fit for your needs.'
+#  text: 'Unfortunately, we are not able to rent the facilities at this time.  Please keep us in mind when COVID-19 restrictions are lifted.'
 
 #
 # Use the call for action to show a button on the frontpage
