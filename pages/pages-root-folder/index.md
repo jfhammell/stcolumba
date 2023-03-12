@@ -33,7 +33,7 @@ widget1:
 #  text: "In-person worship services have been suspended due to the pandemic.  Please join us online over Zoom."
 #  text: "Precautions have been put in place following the diocese pandemic plan to ensure a safe worship space."
 
-widget2:
+widget3:
   title: "Facilities"
   url: /community/facilities/
   image: widget-hall-303x182.jpg
@@ -41,11 +41,11 @@ widget2:
   text: 'A community hub in Manor Park, the facilities of St&nbsp;Columba are used by various groups throughout the week, and on weekends by individuals for special occasions such as birthday or anniversary parties.  If you have an event or meeting, one of the church halls may be a perfect fit for your needs.'
 #  text: 'Unfortunately, we are not able to rent the facilities at this time.  Please keep us in mind when COVID-19 restrictions are lifted.'
 
-widget3:
-  title: "Vestry"
-  url: /2023/vestry/
-  image: widget-meeting-nicole-honeywill-703542-unsplash-640x384.jpg
-  text: 'Our annual Vestry meeting will be held on Sunday, March 5 in John Stewart Hall following the service.'
+widget2:
+  title: "Spring Bake Sale"
+  url: /2023/spring-bake-sale/
+  image: widget-spring-bake-sale-2023-640x384.png
+  text: 'Yummy treats will be available for purchase at our Spring Bake Sale Fundraiser on Saturday, March 25, 10am to noon.'
 
 #
 # Use the call for action to show a button on the frontpage
