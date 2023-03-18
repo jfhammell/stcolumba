@@ -9,7 +9,7 @@ show_meta: false
 categories:
     - 2022
 tags:
-    - frontpage
+#    - frontpage
 #header: no
 #image:
 #    title: poster-reopening-2020.png
