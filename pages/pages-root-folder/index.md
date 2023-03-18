@@ -14,17 +14,18 @@ header:
 #  image: widget-zoom-chris-montgomery-smgTvepind4-unsplash.jpg
 #  text: "<b>Sunday Worship 9:30am</b><br/>Join us virtually via Zoom. <a href='mailto:webmaster@stcolumbaottawa.ca'>Contact us</a> to receive the invitation."
 
-widget1:
+widget3:
   title: "Worship Services"
   image: widget-interior-img-1592.jpg
   url: /worship/
-  text: "<b>Sunday Worship 9:30am</b><br/>All are welcome. COVID-19 precautions are in place."
+#  text: "<b>Sunday Worship 9:30am</b><br/>All are welcome. COVID-19 precautions are in place."
+  text: "<b>Sunday Worship 10:00am</b><br/>All are welcome."
 
-#widget1:
-#  title: "Holy Week Services"
-#  image: widget-holy-week-2020-640x384.png
-#  url: /2022/holy-week/
-#  text: "Join us for worship services during Holy Week for Palm Sunday, Maundy Thursday, Good Friday, and Easter Sunday."
+widget1:
+  title: "Holy Week Services"
+  image: widget-holy-week-2023-640x384.png
+  url: /2023/holy-week/
+  text: "Join us for worship services during Holy Week for Palm Sunday, Maundy Thursday, Good Friday, and Easter Sunday."
 
 #widget2:
 #  title: "COVID-19"
@@ -33,12 +34,12 @@ widget1:
 #  text: "In-person worship services have been suspended due to the pandemic.  Please join us online over Zoom."
 #  text: "Precautions have been put in place following the diocese pandemic plan to ensure a safe worship space."
 
-widget3:
-  title: "Facilities"
-  url: /community/facilities/
-  image: widget-hall-303x182.jpg
+#widget3:
+#  title: "Facilities"
+#  url: /community/facilities/
+#  image: widget-hall-303x182.jpg
 #  text: 'We have re-opened the facilities of St&nbsp;Columba with restrictions as per the COVID-19 pandemic plan.  If you have an event or meeting, contact us to see if one of the church halls may fit your needs.'
-  text: 'A community hub in Manor Park, the facilities of St&nbsp;Columba are used by various groups throughout the week, and on weekends by individuals for special occasions such as birthday or anniversary parties.  If you have an event or meeting, one of the church halls may be a perfect fit for your needs.'
+#  text: 'A community hub in Manor Park, the facilities of St&nbsp;Columba are used by various groups throughout the week, and on weekends by individuals for special occasions such as birthday or anniversary parties.  If you have an event or meeting, one of the church halls may be a perfect fit for your needs.'
 #  text: 'Unfortunately, we are not able to rent the facilities at this time.  Please keep us in mind when COVID-19 restrictions are lifted.'
 
 widget2:
