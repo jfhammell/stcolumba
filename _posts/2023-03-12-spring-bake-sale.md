@@ -9,7 +9,7 @@ show_meta: false
 categories:
     - 2023
 tags:
-    - frontpage
+#    - frontpage
 header: no
 image:
     title: poster-spring-bake-sale-2023.png
