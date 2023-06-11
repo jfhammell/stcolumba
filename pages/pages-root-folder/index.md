@@ -34,6 +34,11 @@ widget1:
 #  text: "Precautions have been put in place following the diocese pandemic plan to ensure a safe worship space."
 
 widget2:
+  title: "In Memorium"
+  image: widget-memorium-thomas-bormans-IVDwedyOS3s-unsplash-640x384.jpg
+  text: "Former parishoner and Altar Guild member, Diane McCormack, has passed away. A Celebration of Life will be held at St Columba on Friday, June 16 at 11am, with a reception to follow in the John Stewart Hall."
+
+widget3:
   title: "Facilities"
   url: /community/facilities/
   image: widget-hall-303x182.jpg
