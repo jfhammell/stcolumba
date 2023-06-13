@@ -18,7 +18,7 @@ widget1:
   title: "Worship Services"
   image: widget-interior-img-1592.jpg
   url: /worship/
-  text: "<b>Sunday Worship 10:00am</b><br/>All are welcome."
+  text: "<b>Sunday Worship 10:00am</b><br/>All are welcome. Sunday School available for the children."
 
 #widget1:
 #  title: "Holy Week Services"
@@ -34,9 +34,10 @@ widget1:
 #  text: "Precautions have been put in place following the diocese pandemic plan to ensure a safe worship space."
 
 widget2:
-  title: "In Memorium"
-  image: widget-memorium-thomas-bormans-IVDwedyOS3s-unsplash-640x384.jpg
-  text: "Former parishoner and Altar Guild member, Diane McCormack, has passed away. A Celebration of Life will be held at St Columba on Friday, June 16 at 11am, with a reception to follow in the John Stewart Hall."
+  title: "In Memoriam"
+  url: https://www.hpmcgarry.ca/memorials/margaret-diane-mccormack/5207621
+  image: widget-memoriam-thomas-bormans-IVDwedyOS3s-unsplash-640x384.jpg
+  text: "Former parishoner and Altar Guild member, Diane McCormack, has passed away. A Memorial Service will be held at St Columba on Friday, June 16 at 11am, with a reception to follow in the John Stewart Hall."
 
 widget3:
   title: "Facilities"
