@@ -34,10 +34,10 @@ widget1:
 #  text: "Precautions have been put in place following the diocese pandemic plan to ensure a safe worship space."
 
 widget2:
-  title: "In Memoriam"
-  url: https://www.hpmcgarry.ca/memorials/margaret-diane-mccormack/5207621
-  image: widget-memoriam-thomas-bormans-IVDwedyOS3s-unsplash-640x384.jpg
-  text: "Former parishoner and Altar Guild member, Diane McCormack, has passed away. A Memorial Service will be held at St Columba on Friday, June 16 at 11am, with a reception to follow in the John Stewart Hall."
+  title: "Strawberry Social"
+  url: /2023/strawberry-social/
+  image: widget-strawberry-social-640x384.png
+  text: "Join us on Saturday, July 29, 2-4pm for homemade shortcakes, local strawberries and fresh whipping cream.  Cost is $10 per serving (cash or cheque please)."
 
 widget3:
   title: "Facilities"
