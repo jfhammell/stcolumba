@@ -39,5 +39,5 @@ A memorial book, displayed in the narthex, lists the many wonderful donations pr
 | The Reverend William Sheppard | 2012–2015
 | The Reverend Kenneth Spear | 2015–2016
 | The Reverend Canon Robert Heard | 2016–2019
-| The Reverend Karen Coxon | 2019-present
+| The Reverend Karen Coxon | 2019-2023
 

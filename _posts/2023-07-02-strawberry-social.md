@@ -7,7 +7,7 @@ show_meta: false
 categories:
     - 2023
 tags:
-    - frontpage
+#    - frontpage
 header: no
 image:
     title: poster-strawberry-social-2023.png
