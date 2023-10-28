@@ -34,10 +34,10 @@ widget1:
 #  text: "Precautions have been put in place following the diocese pandemic plan to ensure a safe worship space."
 
 widget2:
-  title: "Harvest Chili Supper"
-  url: /2023/chili-supper/
-  image: widget-harvest-chili-supper-2019.png
-  text: "Join us on Friday, October 20, 5:30-7:30pm for a harvest chili supper.  Cost is $10 for adults or $5 for children (cash only please)."
+  title: "Christmas Services"
+  url: /2023/christmas/
+  image: widget-christmas-2023-640x384.png
+  text: "Join us for worship services during the Advent and Christmas season."
 
 widget3:
   title: "Facilities"
