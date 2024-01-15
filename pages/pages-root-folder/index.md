@@ -34,23 +34,17 @@ widget1:
 #  text: "Precautions have been put in place following the diocese pandemic plan to ensure a safe worship space."
 
 widget2:
-  title: "Christmas Services"
-  url: /2023/christmas/
-  image: widget-christmas-2023-640x384.png
-  text: "Join us for worship services during the Advent and Christmas season."
+  title: "Bishop's Visit"
+  url: /2024/bishop-visit/
+  image: widget-ado-logo-640x384.png
+  text: "The parish will welcome Bishop Shane Parker on February 4 for a special service of Confirmation."
 
 widget3:
-  title: "Holly & Bake Sale"
-  url: /2023/holly-sale/
-  image: widget-holly-sale-2023.png
-  text: "St Columba hosts our annual sale of fresh holly and homemade baked goods on Saturday, December 23 at 10am."
-
-#widget3:
-#  title: "Facilities"
-#  url: /community/facilities/
-#  image: widget-hall-303x182.jpg
+  title: "Facilities"
+  url: /community/facilities/
+  image: widget-hall-303x182.jpg
+  text: 'A community hub in Manor Park, the facilities of St&nbsp;Columba are used by various groups throughout the week, and on weekends by individuals for special occasions such as birthday or anniversary parties.  If you have an event or meeting, one of the church halls may be a perfect fit for your needs.'
 #  text: 'We have re-opened the facilities of St&nbsp;Columba with restrictions as per the COVID-19 pandemic plan.  If you have an event or meeting, contact us to see if one of the church halls may fit your needs.'
-#  text: 'A community hub in Manor Park, the facilities of St&nbsp;Columba are used by various groups throughout the week, and on weekends by individuals for special occasions such as birthday or anniversary parties.  If you have an event or meeting, one of the church halls may be a perfect fit for your needs.'
 #  text: 'Unfortunately, we are not able to rent the facilities at this time.  Please keep us in mind when COVID-19 restrictions are lifted.'
 
 #
