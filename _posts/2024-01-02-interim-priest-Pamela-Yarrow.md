@@ -16,4 +16,4 @@ tags:
 #    caption: Open House Flyer
 #    caption_url: http://unsplash.com
 ---
-Beginning in January 2024, we welcome the return of the Ven Pamela Yarrow as our interim priest until mid-March.
+Beginning in January 2024, we welcome the return of the Ven Pamela Yarrow as our interim priest.  Pamela will be with us until mid-March.
