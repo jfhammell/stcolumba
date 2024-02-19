@@ -34,10 +34,10 @@ widget1:
 #  text: "Precautions have been put in place following the diocese pandemic plan to ensure a safe worship space."
 
 widget2:
-  title: "Bishop's Visit"
-  url: /2024/bishop-visit/
-  image: widget-ado-logo-640x384.png
-  text: "The parish will welcome Bishop Shane Parker on February 4 for a special service of Confirmation."
+  title: "Vestry Meeting"
+  url: /2024/vestry/
+  image: widget-meeting-nicole-honeywill-703542-unsplash-640x384.jpg
+  text: "Our annual Vestry meeting will take place on February 25, following the service."
 
 widget3:
   title: "Facilities"
