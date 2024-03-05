@@ -34,10 +34,10 @@ widget1:
 #  text: "Precautions have been put in place following the diocese pandemic plan to ensure a safe worship space."
 
 widget2:
-  title: "Vestry Meeting"
-  url: /2024/vestry/
-  image: widget-meeting-nicole-honeywill-703542-unsplash-640x384.jpg
-  text: "Our annual Vestry meeting will take place on February 25, following the service."
+  title: "Holy Week"
+  url: /2024/holy-week/
+  image: widget-holy-week-2023-640x384.png
+  text: "Join us for Palm Sunday, Maundy Thursday, Good Friday and Easter services."
 
 widget3:
   title: "Facilities"
