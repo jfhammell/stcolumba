@@ -34,10 +34,10 @@ widget1:
 #  text: "Precautions have been put in place following the diocese pandemic plan to ensure a safe worship space."
 
 widget2:
-  title: "Holy Week"
-  url: /2024/holy-week/
-  image: widget-holy-week-2023-640x384.png
-  text: "Join us for Palm Sunday, Maundy Thursday, Good Friday and Easter services."
+  title: "Afternoon Tea"
+  url: /2024/afternoon-tea/
+  image: widget-afternoon-tea-2024-640x384.png
+  text: "Bring out your pretty hats or facinators and join us for Afternoon Tea on Saturday, May 25. Reservations required."
 
 widget3:
   title: "Facilities"
