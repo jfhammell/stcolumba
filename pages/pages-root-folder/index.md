@@ -40,10 +40,16 @@ widget2:
   text: "Bring out your pretty hats or facinators and join us for Afternoon Tea on Saturday, May 25. Reservations required."
 
 widget3:
-  title: "Facilities"
-  url: /community/facilities/
-  image: widget-hall-303x182.jpg
-  text: 'A community hub in Manor Park, the facilities of St&nbsp;Columba are used by various groups throughout the week, and on weekends by individuals for special occasions such as birthday or anniversary parties.  If you have an event or meeting, one of the church halls may be a perfect fit for your needs.'
+  title: "Stairwell Carollers"
+  url: /2024/stairwell-carollers-primavera/
+  image: widget-stairwell-carollers-primavera-2024-640x384.jpg
+  text: "Experience an amazing performance of the Stairwell Carollers presenting Primavera, Madrigali & Mottetti, on June 2 at 2pm.  The Stairwell Carollers, directed by Pierre Massie, are generously performing as a fundraiser for St Columba Church. So invite your friends."
+
+#widget3:
+#  title: "Facilities"
+#  url: /community/facilities/
+#  image: widget-hall-303x182.jpg
+#  text: 'A community hub in Manor Park, the facilities of St&nbsp;Columba are used by various groups throughout the week, and on weekends by individuals for special occasions such as birthday or anniversary parties.  If you have an event or meeting, one of the church halls may be a perfect fit for your needs.'
 #  text: 'We have re-opened the facilities of St&nbsp;Columba with restrictions as per the COVID-19 pandemic plan.  If you have an event or meeting, contact us to see if one of the church halls may fit your needs.'
 #  text: 'Unfortunately, we are not able to rent the facilities at this time.  Please keep us in mind when COVID-19 restrictions are lifted.'
 
