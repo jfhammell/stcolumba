@@ -9,7 +9,7 @@ show_meta: false
 categories:
     - 2024
 tags:
-    - frontpage
+#    - frontpage
 header: no
 image:
     title: poster-stairwell-carollers-primavera-2024.jpg
