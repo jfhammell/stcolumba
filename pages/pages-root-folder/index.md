@@ -34,10 +34,10 @@ widget1:
 #  text: "Precautions have been put in place following the diocese pandemic plan to ensure a safe worship space."
 
 widget2:
-  title: "Strawberry Social"
-  url: /2024/strawberry-social/
-  image: widget-strawberry-social-640x384.png
-  text: "Join us on Saturday, July 27, 2-4pm for homemade shortcakes, local strawberries and fresh whipping cream.  Cost is $15 per serving."
+  title: "Harvest Chili Supper"
+  url: /2024/chili-supper/
+  image: widget-harvest-chili-supper-2019.png
+  text: "Join us on Monday, October 21 for our annual harvest chili supper."
 
 widget3:
   title: "Facilities"

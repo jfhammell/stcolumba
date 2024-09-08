@@ -7,7 +7,7 @@ show_meta: false
 categories:
     - 2024
 tags:
-    - frontpage
+#    - frontpage
 header: no
 image:
     title: poster-strawberry-social-2024.png
