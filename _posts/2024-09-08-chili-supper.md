@@ -12,9 +12,9 @@ tags:
     - frontpage
 header: no
 image:
-#    title: poster-chili-supper-2024.png
+    title: poster-chili-supper-2024.png
 #    caption: Open House Flyer
 #    caption_url: http://unsplash.com
 ---
-Beef or vegetarian chili, served with a side, beverage and dessert.  Adults $10 and children $5.  Dine-in or take-out available.  
+Enjoy beef or vegetarian chili, served with a side, beverage and dessert.  Adults $15 and children $7.  Dine-in or take-out available.  Take-out orders must be placed in advance by emailing [orders@stcolumbaottawa.ca](mailto:orders@stcolumbaottawa.ca).
 
