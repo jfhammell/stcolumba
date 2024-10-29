@@ -34,10 +34,10 @@ widget1:
 #  text: "Precautions have been put in place following the diocese pandemic plan to ensure a safe worship space."
 
 widget2:
-  title: "Harvest Chili Supper"
-  url: /2024/chili-supper/
-  image: widget-harvest-chili-supper-2019.png
-  text: "Join us on Monday, October 21 for our annual harvest chili supper."
+  title: "Holly and Bake Sale"
+  url: /2024/holly-sale/
+  image: widget-holly-sale-2023.png
+  text: "Join us on for our annual Holly and Bake Sale on Saturday, December 21 starting at 10am. Come early as inventory sells out fast!"
 
 widget3:
   title: "Facilities"
