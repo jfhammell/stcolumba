@@ -43,7 +43,7 @@ widget2:
   title: "Ash Wednesday"
   #url: /2025/ash-wednesday/
   image: widget-ash-ahna-ziegler-558901-unsplash-640x384.jpg
-  text: "A solemn Ash Wednesday service will be held on March 5.  The time of the service will be announced soon."
+  text: "A solemn Ash Wednesday service will be held on March 5 at 2pm."
 
 widget3:
   title: "Facilities"
