@@ -43,7 +43,7 @@ widget3:
   title: "Spring Bake Sale"
   url: /2025/spring-bake-sale/
   image: widget-spring-bake-sale-2023-640x384.png
-  text: "Join us on for our annual Holly and Bake Sale on Saturday, December 21 starting at 10am. Come early as inventory sells out fast!"
+  text: "Join us on for our Spring Bake Sale on Saturday, April 12 starting at 10am. Come early as inventory sells out fast!"
 
 #widget3:
 #  title: "Facilities"
