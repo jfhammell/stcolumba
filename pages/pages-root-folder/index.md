@@ -14,17 +14,17 @@ header:
 #  image: widget-zoom-chris-montgomery-smgTvepind4-unsplash.jpg
 #  text: "<b>Sunday Worship 9:30am</b><br/>Join us virtually via Zoom. <a href='mailto:webmaster@stcolumbaottawa.ca'>Contact us</a> to receive the invitation."
 
-widget2:
+widget1:
   title: "Worship Services"
   image: widget-interior-img-1592.jpg
   url: /worship/
   text: "<b>Sunday Worship 10:00am</b><br/>All are welcome. Sunday School available for the children."
 
-widget1:
-  title: "Holy Week Services"
-  image: widget-holy-week-2023-640x384.png
-  url: /2025/holy-week/
-  text: "Join us for worship services during Holy Week for Palm Sunday, Maundy Thursday, Good Friday, and Easter Sunday."
+#widget1:
+#  title: "Holy Week Services"
+#  image: widget-holy-week-2023-640x384.png
+#  url: /2025/holy-week/
+#  text: "Join us for worship services during Holy Week for Palm Sunday, Maundy Thursday, Good Friday, and Easter Sunday."
 
 #widget2:
 #  title: "COVID-19"
@@ -39,17 +39,23 @@ widget1:
 #  image: widget-holly-sale-2023.png
 #  text: "Join us on for our annual Holly and Bake Sale on Saturday, December 21 starting at 10am. Come early as inventory sells out fast!"
 
-widget3:
-  title: "Spring Bake Sale"
-  url: /2025/spring-bake-sale/
-  image: widget-spring-bake-sale-2023-640x384.png
-  text: "Join us on for our Spring Bake Sale on Saturday, April 12 starting at 10am. Come early as inventory sells out fast!"
+widget2:
+  title: "Garage Sale"
+  url: /2025/garage-sale/
+  image: widget-garage-sale-ekaterinabelinskaya-640x384.jpg
+  text: "St Columba is hosting a garage sale on Saturday, June 7. Come early and see what treasures are available." 
 
 #widget3:
-#  title: "Facilities"
-#  url: /community/facilities/
-#  image: widget-hall-303x182.jpg
-#  text: 'A community hub in Manor Park, the facilities of St&nbsp;Columba are used by various groups throughout the week, and on weekends by individuals for special occasions such as birthday or anniversary parties.  If you have an event or meeting, one of the church halls may be a perfect fit for your needs.'
+#  title: "Spring Bake Sale"
+#  url: /2025/spring-bake-sale/
+#  image: widget-spring-bake-sale-2023-640x384.png
+#  text: "Join us on for our Spring Bake Sale on Saturday, April 12 starting at 10am. Come early as inventory sells out fast!"
+
+widget3:
+  title: "Facilities"
+  url: /community/facilities/
+  image: widget-hall-303x182.jpg
+  text: 'A community hub in Manor Park, the facilities of St&nbsp;Columba are used by various groups throughout the week, and on weekends by individuals for special occasions such as birthday or anniversary parties.  If you have an event or meeting, one of the church halls may be a perfect fit for your needs.'
 #  text: 'We have re-opened the facilities of St&nbsp;Columba with restrictions as per the COVID-19 pandemic plan.  If you have an event or meeting, contact us to see if one of the church halls may fit your needs.'
 #  text: 'Unfortunately, we are not able to rent the facilities at this time.  Please keep us in mind when COVID-19 restrictions are lifted.'
 
