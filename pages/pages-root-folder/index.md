@@ -40,10 +40,10 @@ widget1:
 #  text: "Join us on for our annual Holly and Bake Sale on Saturday, December 21 starting at 10am. Come early as inventory sells out fast!"
 
 widget2:
-  title: "Garage Sale"
-  url: /2025/garage-sale/
-  image: widget-garage-sale-ekaterinabelinskaya-640x384.jpg
-  text: "St Columba is hosting a garage sale on Saturday, June 7. Come early and see what treasures are available." 
+  title: "Strawberry Social"
+  url: /2025/strawberry-social/
+  image: widget-strawberry-social-640x384.png
+  text: "Join us on Saturday, July 19 for a Strawberry Social. Tasty homemade shortcakes, local berries and fresh wipping cream." 
 
 #widget3:
 #  title: "Spring Bake Sale"
