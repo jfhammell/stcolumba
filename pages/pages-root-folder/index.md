@@ -40,10 +40,10 @@ widget1:
 #  text: "Join us on for our annual Holly and Bake Sale on Saturday, December 21 starting at 10am. Come early as inventory sells out fast!"
 
 widget2:
-  title: "Strawberry Social"
-  url: /2025/strawberry-social/
-  image: widget-strawberry-social-640x384.png
-  text: "Join us on Saturday, July 19 for a Strawberry Social. Tasty homemade shortcakes, local berries and fresh wipping cream." 
+  title: "Blessing of the Animals"
+  url: /2025/blessing-of-the-animals/
+  image: widget-cat-isabela-ferreira-780664-unsplash.jpg
+  text: "Bring your pets on Creation Sunday for the Blessing of the Animals."
 
 #widget3:
 #  title: "Spring Bake Sale"
