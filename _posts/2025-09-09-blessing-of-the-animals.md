@@ -14,4 +14,4 @@ tags:
 #image:
 #    title: holly-sale-2018.png
 ---
-Join us on Creation Sunday and bring your pets for the Blessing of the Animals.
+Join us on Creation Sunday and bring your pets for the Blessing of the Animals. The Rev'd Canon Aigah Attagutsiak will be our guest preacher.

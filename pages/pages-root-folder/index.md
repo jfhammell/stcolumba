@@ -43,7 +43,7 @@ widget2:
   title: "Blessing of the Animals"
   url: /2025/blessing-of-the-animals/
   image: widget-cat-isabela-ferreira-780664-unsplash.jpg
-  text: "Bring your pets on Creation Sunday for the Blessing of the Animals."
+  text: "Bring your pets on Creation Sunday for the Blessing of the Animals. The Rev'd Canon Aigah Attagutsiak will be guest preacher."
 
 #widget3:
 #  title: "Spring Bake Sale"
