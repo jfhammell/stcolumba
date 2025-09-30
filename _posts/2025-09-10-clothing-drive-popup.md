@@ -16,4 +16,4 @@ tags:
 ---
 St Columba is organizating a winter clothing drive throughout the month of October. Drop of clean used clothing for the whole family in a bag on the church front porch or the stage in John Stewart Hall.  
 
-The clothing will be organized for a free pop-up shop on November 1st.
+The clothing will be organized for a free pop-up shop on November 15th.
