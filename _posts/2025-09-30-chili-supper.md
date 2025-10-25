@@ -7,7 +7,7 @@ teaser: "Monday, October 27, 2025 - 5:30-7:30 pm"
 #breadcrumb: true
 show_meta: false
 categories:
-    - 2023
+    - 2025
 tags:
     - frontpage
 header: no

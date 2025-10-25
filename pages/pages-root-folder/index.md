@@ -40,10 +40,10 @@ widget1:
 #  text: "Join us on for our annual Holly and Bake Sale on Saturday, December 21 starting at 10am. Come early as inventory sells out fast!"
 
 widget2:
-  title: "Blessing of the Animals"
-  url: /2025/blessing-of-the-animals/
-  image: widget-cat-isabela-ferreira-780664-unsplash.jpg
-  text: "Bring your pets on Creation Sunday for the Blessing of the Animals. The Rev'd Canon Aigah Attagutsiak will be guest preacher."
+  title: "Harvest Chili Supper"
+  url: /2025/chili-supper/
+  image: widget-harvest-chili-supper-2019.png
+  text: "Our chili supper fundraiser is Monday, October 27. The Girl Guides will be helping to serve. Enjoy beef or vegetarian chili, cornbread and desert. A bake sale table will also be present."
 
 #widget3:
 #  title: "Spring Bake Sale"
