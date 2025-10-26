@@ -11,8 +11,8 @@ categories:
 tags:
     - frontpage
 #header: no
-#image:
-#    title: holly-sale-2018.png
+image:
+    title: poster-clothing-pop-up-2025.png
 ---
 St Columba is organizating a winter clothing drive throughout the month of October. Drop of clean used clothing for the whole family in a bag on the church front porch or the stage in John Stewart Hall.  
 
