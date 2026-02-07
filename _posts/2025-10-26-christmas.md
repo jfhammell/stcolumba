@@ -8,7 +8,7 @@ show_meta: false
 categories:
     - 2025
 tags:
-    - frontpage
+#    - frontpage
 header: no
 image:
     title: poster-christmas-2025.png
