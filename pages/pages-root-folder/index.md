@@ -14,11 +14,12 @@ header:
 #  image: widget-zoom-chris-montgomery-smgTvepind4-unsplash.jpg
 #  text: "<b>Sunday Worship 9:30am</b><br/>Join us virtually via Zoom. <a href='mailto:webmaster@stcolumbaottawa.ca'>Contact us</a> to receive the invitation."
 
-widget1:
+widget2:
   title: "Worship Services"
   image: widget-interior-img-1592.jpg
   url: /worship/
-  text: "<b>Sunday Worship 10:00am</b><br/>All are welcome. Sunday School available for the children."
+  text: "<b>Sunday Worship 10:00am</b><br/>All are welcome."
+  #text: "<b>Sunday Worship 10:00am</b><br/>All are welcome. Sunday School is available for the children."
 
 #widget1:
 #  title: "Christmas Services"
@@ -26,11 +27,11 @@ widget1:
 #  url: /2025/christmas/
 #  text: "Special services during Advent and Christmas with music and worship to warm your heart."
 
-#widget1:
-#  title: "Holy Week Services"
-#  image: widget-holy-week-2023-640x384.png
-#  url: /2025/holy-week/
-#  text: "Join us for worship services during Holy Week for Palm Sunday, Maundy Thursday, Good Friday, and Easter Sunday."
+widget1:
+  title: "Holy Week Services"
+  image: widget-holy-week-2023-640x384.png
+  url: /2026/holy-week/
+  text: "Join us for worship services during Holy Week for Palm Sunday, Maundy Thursday, Good Friday, and Easter Sunday."
 
 #widget2:
 #  title: "COVID-19"
@@ -39,11 +40,11 @@ widget1:
 #  text: "In-person worship services have been suspended due to the pandemic.  Please join us online over Zoom."
 #  text: "Precautions have been put in place following the diocese pandemic plan to ensure a safe worship space."
 
-widget2:
-  title: "Vestry Meeting"
-  url: /2026/vestry/
-  image: widget-meeting-nicole-honeywill-703542-unsplash-640x384.jpg
-  text: "Our annual Vestry Meeting will take place following the service on Sunday, March 1. All parish members are encouraged to attend."
+#widget2:
+#  title: "Vestry Meeting"
+#  url: /2026/vestry/
+#  image: widget-meeting-nicole-honeywill-703542-unsplash-640x384.jpg
+#  text: "Our annual Vestry Meeting will take place following the service on Sunday, March 1. All parish members are encouraged to attend."
 
 widget3:
   title: "Facilities"
