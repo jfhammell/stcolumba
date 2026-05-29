@@ -14,7 +14,7 @@ header:
 #  image: widget-zoom-chris-montgomery-smgTvepind4-unsplash.jpg
 #  text: "<b>Sunday Worship 9:30am</b><br/>Join us virtually via Zoom. <a href='mailto:webmaster@stcolumbaottawa.ca'>Contact us</a> to receive the invitation."
 
-widget2:
+widget1:
   title: "Worship Services"
   image: widget-interior-img-1592.jpg
   url: /worship/
@@ -27,11 +27,11 @@ widget2:
 #  url: /2025/christmas/
 #  text: "Special services during Advent and Christmas with music and worship to warm your heart."
 
-widget1:
-  title: "Holy Week Services"
-  image: widget-holy-week-2023-640x384.png
-  url: /2026/holy-week/
-  text: "Join us for worship services during Holy Week for Palm Sunday, Maundy Thursday, Good Friday, and Easter Sunday."
+#widget1:
+#  title: "Holy Week Services"
+#  image: widget-holy-week-2023-640x384.png
+#  url: /2026/holy-week/
+#  text: "Join us for worship services during Holy Week for Palm Sunday, Maundy Thursday, Good Friday, and Easter Sunday."
 
 #widget2:
 #  title: "COVID-19"
@@ -45,6 +45,12 @@ widget1:
 #  url: /2026/vestry/
 #  image: widget-meeting-nicole-honeywill-703542-unsplash-640x384.jpg
 #  text: "Our annual Vestry Meeting will take place following the service on Sunday, March 1. All parish members are encouraged to attend."
+
+widget2:
+  title: "Let's Talk"
+  url: /2026/lets-talk-fall-prevention
+  image: widget-lets-talk-fall-prevention-640x384.png
+  text: "The next session in the Let's Talk series is on fall prevention in partnership with Ottawa Public Health to be held on June 9 at 1:30pm."
 
 widget3:
   title: "Facilities"
