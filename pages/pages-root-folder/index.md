@@ -15,10 +15,10 @@ header:
 #  text: "<b>Sunday Worship 9:30am</b><br/>Join us virtually via Zoom. <a href='mailto:webmaster@stcolumbaottawa.ca'>Contact us</a> to receive the invitation."
 
 widget1:
-  title: "Worship Services"
+  title: "Everyone is Welcome at St&nbsp;Columba"
   image: widget-interior-img-1592.jpg
   url: /worship/
-  text: "<b>Sunday Worship 10:00am</b><br/>All are welcome."
+  text: "<b>Sunday Worship 10:00am</b><br/>The community Church of St Columba is nestled in beautiful Manor Park, Ottawa, Ontario. Part of the Anglican Diocese of Ottawa, St&nbsp;Columba parishioners are known for our friendly inclusive welcome, our incredible music and a warm worshipping environment. We are dedicated to growing in faith and serving the surrounding community."
   #text: "<b>Sunday Worship 10:00am</b><br/>All are welcome. Sunday School is available for the children."
 
 #widget1:
