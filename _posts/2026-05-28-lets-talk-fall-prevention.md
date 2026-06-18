@@ -20,7 +20,8 @@ Fall Prevension saves lives!  Let's talk...
 * Why People Fall
 * Tips to Prevent Falls
 
-**Wednesday, June 9th at 1:30pm**
+**Monday, June 22nd at 1:30pm**
+(postponed from June 10)
 
 Free!  Everone Welcome!
 
