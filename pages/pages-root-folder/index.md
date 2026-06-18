@@ -46,11 +46,17 @@ widget1:
 #  image: widget-meeting-nicole-honeywill-703542-unsplash-640x384.jpg
 #  text: "Our annual Vestry Meeting will take place following the service on Sunday, March 1. All parish members are encouraged to attend."
 
+#widget2:
+#  title: "Let's Talk"
+#  url: /2026/lets-talk-fall-prevention
+#  image: widget-lets-talk-fall-prevention-640x384.png
+#  text: "The next session in the Let's Talk series is on fall prevention in partnership with Ottawa Public Health to be held on June 9 at 1:30pm."
+
 widget2:
-  title: "Let's Talk"
-  url: /2026/lets-talk-fall-prevention
-  image: widget-lets-talk-fall-prevention-640x384.png
-  text: "The next session in the Let's Talk series is on fall prevention in partnership with Ottawa Public Health to be held on June 9 at 1:30pm."
+  title: "Strawberry Social"
+  url: /2026/strawberry-social
+  image: widget-strawberry-social-640x384.png
+  text: "Join us on Saturday, July 4, 2-4pm for homemade shortcakes, local strawberries and fresh whipping cream. Cost is $15 per serving."
 
 widget3:
   title: "Facilities"
