@@ -5,9 +5,9 @@ title:  "Strawberry Social"
 #breadcrumb: true
 show_meta: false
 categories:
-#    - 2026
+    - 2026
 tags:
-    - frontpage
+#    - frontpage
 header: no
 image:
     title: poster-strawberry-social-2026.png
