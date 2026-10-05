@@ -8,7 +8,7 @@ show_meta: false
 categories:
     - 2026
 tags:
-    - frontpage
+#   - frontpage
 header: no
 image:
     title: poster-lets-talk-fall-prevention-2026.jpg

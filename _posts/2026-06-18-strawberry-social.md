@@ -5,7 +5,7 @@ title:  "Strawberry Social"
 #breadcrumb: true
 show_meta: false
 categories:
-    - 2026
+#    - 2026
 tags:
     - frontpage
 header: no

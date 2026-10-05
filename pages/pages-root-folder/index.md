@@ -53,10 +53,10 @@ widget1:
 #  text: "The next session in the Let's Talk series is on fall prevention in partnership with Ottawa Public Health to be held on June 9 at 1:30pm."
 
 widget2:
-  title: "Strawberry Social"
-  url: /2026/strawberry-social
-  image: widget-strawberry-social-640x384.png
-  text: "Join us on Saturday, July 4, 2-4pm for homemade shortcakes, local strawberries and fresh whipping cream. Cost is $15 per serving."
+  title: "Chili Supper"
+  url: /2026/chili-supper
+  image: widget-harvest-chili-supper-2019.png
+  text: "Join us on Monday, October 19 for homemade chili (beef or vegetarian). Silent auction fundraiser also available. Cost is $15 for adults and $10 for children."
 
 widget3:
   title: "Facilities"
