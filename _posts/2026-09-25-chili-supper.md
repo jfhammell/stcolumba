@@ -3,7 +3,7 @@ layout: page
 #subheadline: Templates
 archive: true
 title:  "Harvest Chili Supper"
-teaser: "Monday, October 19, 2026 - 6-7 pm"
+teaser: "Monday, October 19, 2026 - 5:30-7 pm"
 #breadcrumb: true
 show_meta: false
 categories:
