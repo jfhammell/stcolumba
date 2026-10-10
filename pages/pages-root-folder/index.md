@@ -56,7 +56,7 @@ widget2:
   title: "Chili Supper"
   url: /2026/chili-supper
   image: widget-harvest-chili-supper-2019.png
-  text: "Join us on Monday, October 19 for homemade chili (beef or vegetarian). Silent auction fundraiser also available. Cost is $15 for adults and $10 for children."
+  text: "Join us on Monday, October 19 for homemade chili (beef or vegetarian). Cost is $15 for adults and $10 for children."
 
 widget3:
   title: "Facilities"

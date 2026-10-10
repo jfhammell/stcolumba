@@ -18,5 +18,3 @@ image:
 ---
 Enjoy beef or vegetarian chili, served with a side, beverage and dessert.  Adults $15 and children $10.  Dine-in or take-out available.  Take-out orders must be placed in advance by emailing [orders@stcolumbaottawa.ca](mailto:orders@stcolumbaottawa.ca).
 
-Visit with neighbours and enter the silent auction fundraiser.
-
