@@ -21,11 +21,11 @@ widget1:
   text: "<b>Sunday Worship 10:00am</b><br/>The community Church of St Columba is nestled in beautiful Manor Park, Ottawa, Ontario. Part of the Anglican Diocese of Ottawa, St&nbsp;Columba parishioners are known for our friendly inclusive welcome, our incredible music and a warm worshipping environment. We are dedicated to growing in faith and serving the surrounding community."
   #text: "<b>Sunday Worship 10:00am</b><br/>All are welcome. Sunday School is available for the children."
 
-#widget1:
-#  title: "Christmas Services"
-#  image: widget-christmas-2025-640x384.jpg
-#  url: /2025/christmas/
-#  text: "Special services during Advent and Christmas with music and worship to warm your heart."
+widget2:
+  title: "Christmas Services"
+  image: widget-christmas-2026-640x384.jpg
+  url: /2026/christmas/
+  text: "Special services during Advent and Christmas with music and worship to warm your heart."
 
 #widget1:
 #  title: "Holy Week Services"
@@ -52,11 +52,11 @@ widget1:
 #  image: widget-lets-talk-fall-prevention-640x384.png
 #  text: "The next session in the Let's Talk series is on fall prevention in partnership with Ottawa Public Health to be held on June 9 at 1:30pm."
 
-widget2:
-  title: "Chili Supper"
-  url: /2026/chili-supper
-  image: widget-harvest-chili-supper-2019.png
-  text: "Join us on Monday, October 19 for homemade chili (beef or vegetarian). Cost is $15 for adults and $10 for children."
+#widget2:
+#  title: "Chili Supper"
+#  url: /2026/chili-supper
+#  image: widget-harvest-chili-supper-2019.png
+#  text: "Join us on Monday, October 19 for homemade chili (beef or vegetarian). Cost is $15 for adults and $10 for children."
 
 widget3:
   title: "Facilities"
